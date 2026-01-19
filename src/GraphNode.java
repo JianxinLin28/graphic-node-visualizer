@@ -1,17 +1,18 @@
 import java.util.ArrayList;
 
 public class GraphNode {
-    Integer data;
+    Object data;
     ArrayList<GraphNode> neighbors;
     int x, y;
     int level;
+    boolean selected = false;
 
     GraphNode() {
-        data = (Integer) null;
+        data = null;
         neighbors = new ArrayList<>();
     }
 
-    GraphNode(Integer data) {
+    GraphNode(Object data) {
         this.data = data;
         neighbors = new ArrayList<>();
     }

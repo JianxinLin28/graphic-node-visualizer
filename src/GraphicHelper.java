@@ -36,7 +36,7 @@ public class GraphicHelper {
 
         for (int i = 0; i < sorted.length; i++) {
             if (i == 0) {
-                sorted[i].get(0).x = GraphicHelper.ACE * 60;
+                sorted[i].get(0).x = GraphicHelper.ACE * 45;
             } else {
                 int initial = (sorted[i].size() - 1) * (-30) + sorted[0].get(0).x;
                 for (GraphNode node : sorted[i]) {

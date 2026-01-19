@@ -31,6 +31,8 @@ public class Mover extends MouseInputAdapter {
         view.setPreferredSize(new Dimension(230, 200));
         new Mover(view);
         scrollPane.setViewportView(view);
+        scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
+        scrollPane.setHorizontalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 
         f.setVisible(true);
     }

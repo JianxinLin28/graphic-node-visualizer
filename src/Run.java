@@ -24,10 +24,8 @@ public class Run {
 
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
-                String[] splitResult = line.split(" ");
-                int integer1 = Integer.parseInt(splitResult[0]);
-                int integer2 = Integer.parseInt(splitResult[1]);
-                graph.addEdge(new GraphNode(integer1), new GraphNode(integer2));
+                String[] splitResult = line.split(",");
+                graph.addEdge(new GraphNode(splitResult[0]), new GraphNode(splitResult[1]));
             }
             graph.drawGraph();
         } catch (Exception ex) {

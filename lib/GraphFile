@@ -1,29 +1,161 @@
-1 2
-1 3
-2 4
-2 5
-2 6
-3 7
-3 8
-4 9
-4 10
-5 11
-6 12
-7 12
-8 13
-9 14
-14 9
-10 14
-10 19
-11 15
-12 15
-13 16
-13 17
-13 18
-14 20
-15 21
-16 10
-16 20
-17 22
-18 22
-22 10
+Great Sword,Buster Sword
+Great Sword,Rusted Great Sword
+Great Sword,Bone Blade
+Great Sword,Frozen Tuna
+Great Sword,Black Belt Blade
+Great Sword,Tiger Agito
+Great Sword,Dragonslayer
+Great Sword,Black Blade
+Great Sword,Worn Great Sword
+Great Sword,Daimyo Cutter
+Great Sword,Akantor Broadsword
+Buster Sword,Buster Sword+
+Buster Sword+,Buster Blade
+Buster Blade,Ravager Blade
+Ravager Blade,Ravager Blade+
+Ravager Blade+,Tactical Blade
+Tactical Blade,Strategic Blade
+Ravager Blade+,Chrome Razor
+Chrome Razor,Chrome Death Razor
+Chrome Razor,Carbalite Sword
+Carbalite Sword,Carbalite Sword+
+Carbalite Sword+,Lacerator Blade
+Lacerator Blade,Master Blaze
+Carbalite Sword+,Demon Halberd
+Carbalite Sword+,Decider
+Decider,Punisher
+Decider,Igneous Blade
+Igneous Blade,Igneous Sword
+Igneous Blade,Liquid Fire Blade
+Decider,Liquid Fire Blade
+Carbalite Sword,Bronze Coin
+Bronze Coin,Gaoren Coin
+Gaoren Coin,Gaoren Cleaver
+Carbalite Sword,Guardian Sword
+Ravager Blade,Khezu Shock Sword
+Khezu Shock Sword,Khezu Shock Blade
+Khezu Shock Blade,Khezu Shock Full
+Khezu Shock Full,Khezu Shock Full+
+Buster Blade,Cat's Soul
+Cat's Soul,Cat's Curse
+Cat's Curse,Cat's King
+Cat's King,Cat of Venus
+Cat of Venus,Cat of Gold
+Buster Sword+,Defender
+Defender,Sentinel
+Sentinel,Barbaroi Blade
+Barbaroi Blade,Crimson Goat
+Sentinel,Halberd
+Halberd,Judgment
+Buster Sword+,Iron Katana
+Buster Sword,White Serpentblade
+White Serpentblade,Silver Serpentblade
+Silver Serpentblade,Vile Serpentblade
+Vile Serpentblade,Deadly Serpentblade
+Deadly Serpentblade,Poison Serpentblade
+Silver Serpentblade,Golden Serpentblade
+Buster Sword,Blango Destroyer
+Rusted Great Sword,Tarnished Great Swd
+Tarnished Great Swd,Ancient Blade
+Tarnished Great Swd,Steel Ice Blade
+Steel Ice Blade,Steel Ice Blade+
+Steel Ice Blade+,Daora's Decimator
+Daora's Decimator,Daora's Tughril Beg
+Steel Ice Blade+,Icesteel Blade
+Bone Blade,Bone Blade+
+Bone Blade+,Bone Slasher
+Bone Slasher,Golem Blade
+Golem Blade,Golem Blade+
+Golem Blade+,Valkyrie Blade
+Valkyrie Blade,Sieglinde
+Valkyrie Blade,Titernia
+Titernia,Blushing Dame
+Blushing Dame,Alveblade
+Alveblade,Brünhild
+Valkyrie Blade,Spartacus Blade
+Spartacus Blade,Siegmund
+Spartacus Blade,Obelion
+Obelion,Pael Keizah
+Pael Keizah,Alveblade
+Alveblade,Brünhild
+Golem Blade+,Executioner
+Executioner,Executioner+
+Executioner+,Enforcer's Axe
+Executioner,Agito
+Agito,Wyvern Agito
+Wyvern Agito,True Dragon's Jaw
+Wyvern Agito,Demon Rod
+Demon Rod,Great Demon Rod
+Great Demon Rod,Great Demon Hot Rod
+Agito,Rusty Claymore
+Executioner,Kirin Thundersword
+Kirin Thundersword,King Thundersword
+King Thundersword,ImperialThundersword
+Executioner,Sword of the Diablos
+Sword of the Diablos,Diablo Destroyer
+Diablo Destroyer,King Atillart Sword
+Bone Slasher,Finblade
+Finblade,Plesioth Watersword
+Plesioth Watersword,Plesioth Crystasword
+Plesioth Crystasword,Plesioth Azureblade
+Plesioth Azureblade,Plesioth Wave Sword
+Plesioth Wave Sword,Plesioth Wave Blade
+Bone Slasher,Chick Decapitator
+Chick Decapitator,Chicken Decapitator
+Chicken Decapitator,Rooster Decapitator
+Rooster Decapitator,Pickaxe Blade
+Pickaxe Blade,Pickaxe Blade+
+Pickaxe Blade+,Sleep Sword Zantoma
+Rooster Decapitator,Slaughter
+Slaughter,Slaughter+
+Slaughter+,Poison King
+Chick Decapitator,Sentoryu Raven
+Sentoryu Raven,Sentoryu Wolf
+Sentoryu Wolf,Sentoryu Crow
+Sentoryu Wolf,Daito Wolf
+Bone Slasher,Red Wing
+Red Wing,Rathalos Firesword
+Red Wing,Blue Wing
+Blue Wing,Shiny Rathalos Sword
+Bone Blade+,Red Stripe
+Red Stripe,Red Pincer
+Red Pincer,Great Pincer
+Great Pincer,Crab Cutter
+Great Pincer,Killer's Scythe
+Killer's Scythe,Shogun Cutter
+Killer's Scythe,Carmine Blade
+Carmine Blade,Killer's Carver
+Killer's Scythe,Violet Pincer
+Violet Pincer,Grand Pincer
+Red Stripe,Ceanataur Blade
+Ceanataur Blade,Blue Claw Blade
+Blue Claw Blade,Killer's Scythe
+Killer's Scythe,Shogun Cutter
+Killer's Scythe,Carmine Blade
+Carmine Blade,Killer's Carver
+Killer's Scythe,Violet Pincer
+Violet Pincer,Grand Pincer
+Bone Blade+,Bone Katana "Wolf"
+Frozen Tuna,Crystallized Tuna
+Black Belt Blade,Expert Blade
+Expert Blade,Warrior's Blade
+Tiger Agito,Tigrex Great Sword
+Tigrex Great Sword,Tigrex Supreme Sword
+Tiger Agito,Hidden Blaze
+Hidden Blaze,Darkness Darkblade
+Dragonslayer,Eternal Annihilator
+Eternal Annihilator,Eternal Eradicator
+Eternal Eradicator,Eternal Destroyer
+Black Blade,Fatalis Blade
+Fatalis Blade,Black Fatalis Blade
+Black Blade,Fatalis Ancestor
+Fatalis Ancestor,Fatalis Legacy
+Worn Great Sword,Weathered Grt Sword
+Weathered Grt Sword,Epitaph Blade
+Epitaph Blade,Epitaph Eternal
+Weathered Grt Sword,Teostra Blade
+Teostra Blade,King Teostra Blade
+King Teostra Blade,Teostra del Sol
+Daimyo Cutter,Violet Pincer
+Violet Pincer,Grand Pincer
+Akantor Broadsword,Akantor Broadsword+

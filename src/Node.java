@@ -1,17 +1,17 @@
 public class Node {
 
-    Integer data;
+    Object data;
     Node right;
     Node left;
     int x, y;
 
     Node() {
-        data = (Integer) null;
+        data = null;
         right = null;
         left = null;
     }
 
-    Node (Integer data) {
+    Node (Object data) {
         this.data = data;
     }
 

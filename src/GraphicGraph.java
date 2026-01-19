@@ -1,5 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
+import java.io.PrintWriter;
+import java.util.ArrayList;
 
 public class GraphicGraph extends Graph{
 
@@ -15,15 +17,20 @@ public class GraphicGraph extends Graph{
 
     public void drawGraph() {
         JScrollPane scrollPane = new JScrollPane();
+        scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
+        scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
+
         window.add(scrollPane, BorderLayout.CENTER);
         GraphicHelper graphicHelper = new GraphicHelper(this);
-        JLabel label = new DrawingGraph(graphicHelper);
+        DrawingGraph label = new DrawingGraph(graphicHelper, window);
         JPanel drawPanel = new JPanel();
         drawPanel.setLayout(new BorderLayout());
         drawPanel.add(label, "Center");
-        drawPanel.setPreferredSize(new Dimension(GraphicHelper.ACE*60, (Graph.graphHeight-1)*(h+30)+30));
+        drawPanel.setPreferredSize(new Dimension(GraphicHelper.ACE*30, (Graph.graphHeight-1)*(h+30)+30));
         new Mover(drawPanel);
         scrollPane.setViewportView(drawPanel);
+
+        window.add(label.saveButton, BorderLayout.SOUTH);
 
         window.setVisible(true);
     }
