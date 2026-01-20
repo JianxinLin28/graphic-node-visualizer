@@ -29,8 +29,11 @@ public class GraphicGraph extends Graph{
         scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
 
         window.add(scrollPane, BorderLayout.CENTER);   // main drawing area
-        window.add(drawing.saveButton, BorderLayout.SOUTH); // save button
-        window.add(drawing.loadButton, BorderLayout.NORTH); // load button
+        JPanel northPanel = new JPanel(); // default FlowLayout (left to right)
+        northPanel.add(drawing.loadButton);
+        northPanel.add(drawing.saveButton);
+
+        window.add(northPanel, BorderLayout.NORTH);
 
         window.setVisible(true);
     }
