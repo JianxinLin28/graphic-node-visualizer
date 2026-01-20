@@ -1,0 +1,168 @@
+Bone Blade+,1
+Bone Katana "Wolf",1
+Bone Katana "Shark",2
+Bone Katana "Dragon",2
+Supremacy Blade,5
+Divine Slasher,8
+Hellish Slasher,10
+Fire Dragonsword,5
+Red Dragonsword,5
+Smolder Dragonsword,8
+Knockout Dragonsword,10
+Wyvern Blade "Fall",3
+Wyvern Blade "Blood",5
+Wyvern Blade "Maple",7
+WyvernBlade"Silver",9
+WyvrnBlade"Camellia",10
+Wyvern Blade "Leaf",3
+Wyvern Blade "Verde",5
+Wyvern Blade "Holly",7
+WyvernBlade"Silver",9
+WyvrnBlade"Camellia",10
+Buster Sword,1
+Blango Destroyer,2
+Blango Destroyer+,3
+Blango Decimator,4
+Blango Destructor,7
+C.Blango Decimator,9
+C.Blango Destructor,10
+Bone,1
+Large Bone,1
+Bone Katana "Wolf",1
+Bone Katana "Shark",2
+Bone Katana "Dragon",2
+Supremacy Blade,5
+Divine Slasher,8
+Hellish Slasher,10
+Fire Dragonsword,5
+Red Dragonsword,5
+Smolder Dragonsword,8
+Knockout Dragonsword,10
+Wyvern Blade "Fall",3
+Wyvern Blade "Blood",5
+Wyvern Blade "Maple",7
+WyvernBlade"Silver",9
+WyvrnBlade"Camellia",10
+Wyvern Blade "Leaf",3
+Wyvern Blade "Verde",5
+Wyvern Blade "Holly",7
+WyvernBlade"Silver",9
+WyvrnBlade"Camellia",10
+Black Katana Mk.I,3
+Black Katana Mk.II,4
+Black Katana Mk.III,6
+Lost Black Katana,9
+Final Black Katana,9
+Buster Sword+,1
+Iron Katana,1
+Iron Katana "Grace",2
+Iron Katana "Gospel",2
+Eager Cleaver,3
+Devil Slicer,4
+True Devil Slicer,7
+Wailing Cleaver,9
+Wailing Cleaver Shin,10
+Saber,5
+Lion Dance Saber,7
+Lion King Saber,8
+Lion Emperor Saber,8
+Mirage Finsword,5
+Mirage Finsword+,8
+Phantom Mirage,10
+Dark Scythe,3
+Tormentor,4
+Scythe of Menace,6
+Big Menacing Scythe,9
+Crab Cutter,6
+Daimyo Cutter,7
+Hermitaur Slicer,9
+Hermitaur Slasher,9
+Shogun Cutter,9
+Killer's Sickle,10
+Violet Pincer,9
+Crimson Scythe,3
+Monoblos Scythe,4
+Monoblos Scythe+,7
+White Mantis,4
+Frost Ripper,7
+Weiss Crescent,7
+Great Pincer,4
+Crab Cutter,6
+Daimyo Cutter,7
+Hermitaur Slicer,9
+Hermitaur Slasher,9
+Shogun Cutter,9
+Killer's Sickle,10
+Violet Pincer,9
+Centenarian Dagger,5
+Susano Blade,8
+Tigrex Tooth,5
+Tigrex Katana,7
+Tigrex Great Katana,10
+Hidden Saber,7
+Shadow of the Moon,10
+Steel Ice Blade+,5
+Icesteel Blade,8
+Daora's Raid,10
+Dragonwood L.Sword,5
+Fanatic Dragonwd LS,8
+AncientDragonwoodLS,9
+AncientSlayrDrgnwdLS,10
+Black Scythe,5
+Fatalis Sickle,8
+LgndaryFatalisSickle,10
+Great Hornfly Saber,6
+ExceptnlHornflySaber,9
+dummy (LS Fan "Gavas"),6
+dummy (LS Fan "10K Gavas"),9
+Carbalite Sword,6
+Guardian Sword,6
+Imperial Sword,7
+Aqua Guardian,9
+Atlantica,9
+Edelweiss Ice Blade,9
+Edelweiss Ice Blade+,9
+Carbalite Sword+,6
+Demon Halberd,7
+Great Demon Halberd,8
+GrtDemnHalberdRaksha,10
+Agito,6
+Rusty Claymore,6
+Grind Claymore,7
+Gaelic Flame,8
+Last Gaelic Flame,10
+Killer's Scythe,6
+Shogun Cutter,9
+Killer's Sickle,10
+Sentoryu Wolf,7
+Daito Wolf,7
+Daito Crow,9
+Akantor Katana,8
+Akantor Broadswrd S,10
+Decider,9
+Liquid Fire Blade,9
+Divine Fire Blade,10
+Igneous Blade,9
+Liquid Fire Blade,9
+Divine Fire Blade,10
+dummy (Amezari Blade),9
+dummy (Pirate Sword J),9
+Ukanlos Slicer,10
+Bone G,9
+Iron Katana G,9
+BoneKatan"Dragon" G,9
+Eager Cleaver G,9
+Black Katana G,9
+Blango Destroyer G,9
+Tormentor G,9
+Crimson Scythe G,9
+Frost Ripper G,9
+Imperial Sword G,9
+Daimyo Cutter G,9
+Blango Destructor G,9
+WyvernBlade"Maple"G,10
+WyvernBlade"Holly"G,10
+FanaticDragonwdLS G,10
+Saber G,10
+Susano Blade G,10
+Red Dragonsword G,10

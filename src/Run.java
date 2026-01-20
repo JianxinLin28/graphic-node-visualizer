@@ -18,10 +18,12 @@ public class Run {
          */
 
         try {
-            File file = new File("lib/great_sword_map");
+            String folder = "lib/great-sword";
+            File file = new File(folder + "/map.txt");
             Scanner scanner = new Scanner(file);
             GraphicGraph graph = new GraphicGraph();
-            graph.saveNodeFileName = "great_sword_saved.txt";
+            graph.saveNodeFileName = folder + "/saved.txt";
+            graph.rareNodeFileName = folder + "/rare.txt";
 
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();

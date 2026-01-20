@@ -7,6 +7,7 @@ public class GraphicGraph extends Graph{
 
     private final JFrame window;
     public String saveNodeFileName;
+    public String rareNodeFileName;
 
     GraphicGraph() {
         window = new JFrame();
@@ -23,6 +24,7 @@ public class GraphicGraph extends Graph{
         GraphicHelper graphicHelper = new GraphicHelper(this);
         DrawingGraph drawing = new DrawingGraph(graphicHelper, window);
         drawing.saveNodeFileName = saveNodeFileName;
+        drawing.rareNodeFileName = rareNodeFileName;
 
         JScrollPane scrollPane = new JScrollPane(drawing);
         scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);

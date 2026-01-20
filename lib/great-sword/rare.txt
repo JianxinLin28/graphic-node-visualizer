@@ -1,0 +1,199 @@
+Buster Sword,1
+Buster Sword+,1
+Buster Blade,1
+Ravager Blade,2
+Ravager Blade+,3
+Tactical Blade,5
+Strategic Blade,7
+Chrome Razor,5
+Chrome Death Razor,8
+Carbalite Sword,6
+Carbalite Sword+,6
+Lacerator Blade,7
+Master Blaze,9
+Demon Halberd,7
+Decider,9
+Punisher,9
+Igneous Blade,9
+Igneous Sword,10
+Liquid Fire Blade,9
+Liquid Fire Blade,9
+Bronze Coin,5
+Gaoren Coin,8
+Gaoren Cleaver,10
+Guardian Sword,6
+Khezu Shock Sword,3
+Khezu Shock Blade,7
+Khezu Shock Full,9
+Khezu Shock Full+,9
+Cat's Soul,3
+Cat's Curse,4
+Cat's King,6
+Cat of Venus,9
+Cat of Gold,9
+Defender,2
+Sentinel,2
+Barbaroi Blade,3
+Crimson Goat,4
+Halberd,4
+Judgment,6
+Iron Katana,1
+White Serpentblade,2
+Silver Serpentblade,2
+Vile Serpentblade,2
+Deadly Serpentblade,4
+Poison Serpentblade,6
+Golden Serpentblade,6
+Blango Destroyer,2
+Rusted Great Sword,1
+Tarnished Great Swd,1
+Ancient Blade,5
+Steel Ice Blade,5
+Steel Ice Blade+,5
+Daora's Decimator,8
+Daora's Tughril Beg,10
+Icesteel Blade,8
+Bone Blade,1
+Bone Blade+,1
+Bone Slasher,1
+Golem Blade,2
+Golem Blade+,3
+Valkyrie Blade,3
+Sieglinde,5
+Titernia,5
+Blushing Dame,7
+Alveblade,9
+Brünhild,10
+Spartacus Blade,4
+Siegmund,7
+Obelion,6
+Pael Keizah,7
+Alveblade,9
+Brünhild,10
+Executioner,4
+Executioner+,4
+Enforcer's Axe,6
+Agito,6
+Wyvern Agito,6
+True Dragon's Jaw,7
+Demon Rod,7
+Great Demon Rod,8
+Great Demon Hot Rod,10
+Rusty Claymore,6
+Kirin Thundersword,5
+King Thundersword,8
+ImperialThundersword,10
+Sword of the Diablos,5
+Diablo Destroyer,7
+King Atillart Sword,10
+Finblade,2
+Plesioth Watersword,3
+Plesioth Crystasword,4
+Plesioth Azureblade,6
+Plesioth Wave Sword,9
+Plesioth Wave Blade,9
+Chick Decapitator,2
+Chicken Decapitator,4
+Rooster Decapitator,6
+Pickaxe Blade,6
+Pickaxe Blade+,9
+Sleep Sword Zantoma,9
+Slaughter,6
+Slaughter+,9
+Poison King,9
+Sentoryu Raven,5
+Sentoryu Wolf,7
+Sentoryu Crow,9
+Daito Wolf,7
+Red Wing,3
+Rathalos Firesword,5
+Blue Wing,4
+Shiny Rathalos Sword,7
+Red Stripe,2
+Red Pincer,3
+Great Pincer,4
+Crab Cutter,6
+Killer's Scythe,6
+Shogun Cutter,9
+Carmine Blade,9
+Killer's Carver,10
+Violet Pincer,9
+Grand Pincer,9
+Ceanataur Blade,4
+Blue Claw Blade,4
+Killer's Scythe,6
+Shogun Cutter,9
+Carmine Blade,9
+Killer's Carver,10
+Violet Pincer,9
+Grand Pincer,9
+Bone Katana "Wolf",1
+Frozen Tuna,3
+Crystallized Tuna,6
+Black Belt Blade,4
+Expert Blade,8
+Warrior's Blade,10
+Tiger Agito,5
+Tigrex Great Sword,7
+Tigrex Supreme Sword,10
+Hidden Blaze,7
+Darkness Darkblade,10
+Dragonslayer,5
+Eternal Annihilator,5
+Eternal Eradicator,8
+Eternal Destroyer,10
+Black Blade,5
+Fatalis Blade,8
+Black Fatalis Blade,10
+Fatalis Ancestor,8
+Fatalis Legacy,10
+Worn Great Sword,6
+Weathered Grt Sword,6
+Epitaph Blade,7
+Epitaph Eternal,9
+Teostra Blade,7
+King Teostra Blade,8
+Teostra del Sol,10
+Daimyo Cutter,7
+Violet Pincer,9
+Grand Pincer,9
+Akantor Broadsword,8
+Akantor Broadsword+,10
+dummy (RoaringDecisionSword),9
+G Blade,9
+Ukanlos Destructor,10
+Buster Blade G,9
+Bone Blade G,9
+TarnishdGreatSwd G,9
+Ravager Blade G,9
+Golem Blade G,9
+Sentinel G,9
+Red Stripe G,9
+GoldnSerpentblade G,9
+Great Serpentblade G,9
+Cat's Soul G,9
+PoisnSerpentblade G,9
+Decapitator G,9
+Great Pincer G,9
+Executioner G,9
+Barbaroi Blade G,9
+Chrome Razor G,9
+Plesioth Waterswd G,9
+Plesioth Crystaswd G,9
+Killer's Scythe G,9
+Black Belt Blade G,9
+Ancient P G,9
+Carbalite Sword G,9
+Wyvern Agito G,9
+Crystallized Tuna G,9
+Judgment G,9
+True Dragon's Jaw G,9
+Tactical Blade G,9
+Rathalos Firesword G,10
+ShinyRathalosSwd G,10
+Enforcer's Axe G,10
+Siegmund G,10
+Sieglinde G,10
+Pael Keizah G,10
+Blushing Dame G,10
+EternlAnnihilator G,10

@@ -2,11 +2,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 public class DrawingGraph extends JComponent {
 
@@ -15,6 +14,7 @@ public class DrawingGraph extends JComponent {
     public JButton loadButton;
     public JFrame window;
     public String saveNodeFileName;
+    public String rareNodeFileName;
 
     public Dimension getPreferredSize() {
         return new Dimension(
@@ -38,6 +38,53 @@ public class DrawingGraph extends JComponent {
         loadButton = new JButton("Load Selection");
         loadButton.addActionListener(e -> loadSelectedNodes());
         this.window = window;
+    }
+
+    public static Map<Integer, Color> createColorMap() {
+        Map<Integer, Color> colorMap = new HashMap<>();
+
+        colorMap.put(1, Color.BLACK);
+        colorMap.put(2, Color.BLACK);
+        colorMap.put(3, Color.GREEN);
+        colorMap.put(4, Color.GREEN);
+        colorMap.put(5, Color.PINK);
+        colorMap.put(6, Color.BLUE);
+        colorMap.put(7, new Color(158, 68, 0));
+        colorMap.put(8, Color.RED);
+        colorMap.put(9, new Color(184, 137, 0));
+        colorMap.put(10, new Color(128, 0, 128)); // purple
+
+        return colorMap;
+    }
+
+    public static Map<String, Integer> readFileToMap(String filename) {
+        Map<String, Integer> result = new HashMap<>();
+
+        try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                line = line.trim();
+                if (line.isEmpty()) continue; // skip empty lines
+
+                String[] parts = line.split(",");
+                if (parts.length != 2) {
+                    System.out.println("Skipping invalid line: " + line);
+                    continue;
+                }
+
+                String key = parts[0].trim();
+                try {
+                    int value = Integer.parseInt(parts[1].trim());
+                    result.put(key, value);
+                } catch (NumberFormatException e) {
+                    System.out.println("Skipping line with invalid integer: " + line);
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return result;
     }
 
     private void saveSelectedNodes() {
@@ -139,6 +186,9 @@ public class DrawingGraph extends JComponent {
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
 
+        Map<String, Integer> rarityMap = readFileToMap(rareNodeFileName);
+        Map<Integer, Color> colorMap = createColorMap();
+
         ArrayList<GraphNode>[] sorted = graphicHelper.getSortedGraph();
         graphicHelper.updateX();
         int invert = 0;
@@ -156,6 +206,10 @@ public class DrawingGraph extends JComponent {
                 g.setColor(Color.BLACK);
                 g.drawOval(node.x, node.y, 60, 60);
 
+                // Get text color
+                int rarity = rarityMap.getOrDefault(String.valueOf(node.data), 1);
+                Color color = colorMap.getOrDefault(rarity, Color.BLACK);
+
                 // text
                 String word = addNewlinesEveryX(String.valueOf(node.data), 7);
                 int x = node.x + 10;
@@ -165,6 +219,7 @@ public class DrawingGraph extends JComponent {
                 int lineHeight = fm.getHeight();
 
                 for (String line : word.split("\n")) {
+                    g.setColor(color);
                     g.drawString(line, x, y);
                     y += lineHeight;
                 }
