@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class GraphicGraph extends Graph{
 
     private final JFrame window;
+    public String saveNodeFileName;
 
     GraphicGraph() {
         window = new JFrame();
@@ -16,21 +17,20 @@ public class GraphicGraph extends Graph{
     }
 
     public void drawGraph() {
-        JScrollPane scrollPane = new JScrollPane();
+//        JScrollPane scrollPane = new JScrollPane();
+//
+//        window.add(scrollPane, BorderLayout.CENTER);
+        GraphicHelper graphicHelper = new GraphicHelper(this);
+        DrawingGraph drawing = new DrawingGraph(graphicHelper, window);
+        drawing.saveNodeFileName = saveNodeFileName;
+
+        JScrollPane scrollPane = new JScrollPane(drawing);
         scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);
         scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
 
-        window.add(scrollPane, BorderLayout.CENTER);
-        GraphicHelper graphicHelper = new GraphicHelper(this);
-        DrawingGraph label = new DrawingGraph(graphicHelper, window);
-        JPanel drawPanel = new JPanel();
-        drawPanel.setLayout(new BorderLayout());
-        drawPanel.add(label, "Center");
-        drawPanel.setPreferredSize(new Dimension(GraphicHelper.ACE*30, (Graph.graphHeight-1)*(h+30)+30));
-        new Mover(drawPanel);
-        scrollPane.setViewportView(drawPanel);
-
-        window.add(label.saveButton, BorderLayout.SOUTH);
+        window.add(scrollPane, BorderLayout.CENTER);   // main drawing area
+        window.add(drawing.saveButton, BorderLayout.SOUTH); // save button
+        window.add(drawing.loadButton, BorderLayout.NORTH); // load button
 
         window.setVisible(true);
     }

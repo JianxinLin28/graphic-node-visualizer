@@ -2,15 +2,26 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-public class DrawingGraph extends JLabel {
+public class DrawingGraph extends JComponent {
 
     private final GraphicHelper graphicHelper;
     public JButton saveButton;
+    public JButton loadButton;
     public JFrame window;
+    public String saveNodeFileName;
+
+    public Dimension getPreferredSize() {
+        return new Dimension(
+                GraphicHelper.ACE * 100,  // width
+                (Graph.graphHeight - 1) * 150 // height
+        );
+    }
 
     public DrawingGraph(GraphicHelper helper, JFrame window) {
         this.graphicHelper = helper;
@@ -24,6 +35,8 @@ public class DrawingGraph extends JLabel {
 
         saveButton = new JButton("Save Selected");
         saveButton.addActionListener(e -> saveSelectedNodes());
+        loadButton = new JButton("Load Selection");
+        loadButton.addActionListener(e -> loadSelectedNodes());
         this.window = window;
     }
 
@@ -39,13 +52,46 @@ public class DrawingGraph extends JLabel {
             }
         }
 
-        File file = new File("selected_nodes.txt"); // save in current directory
+        File file = new File(saveNodeFileName); // save in current directory
         try (PrintWriter out = new PrintWriter(file)) {
             for (String s : selectedData) {
                 out.println(s);
             }
             JOptionPane.showMessageDialog(window,
                     "Saved " + selectedData.size() + " selected nodes to " + file.getAbsolutePath());
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+
+    private void loadSelectedNodes() {
+        File file = new File(saveNodeFileName);
+        if (!file.exists()) {
+            JOptionPane.showMessageDialog(window, "No saved selection found!");
+            return;
+        }
+
+        // First, clear all previous selections
+        ArrayList<GraphNode>[] sorted = graphicHelper.getSortedGraph();
+        for (ArrayList<GraphNode> graphNodes : sorted) {
+            for (GraphNode node : graphNodes) {
+                node.selected = false;
+            }
+        }
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                for (ArrayList<GraphNode> graphNodes : sorted) {
+                    for (GraphNode node : graphNodes) {
+                        if (String.valueOf(node.data).equals(line)) {
+                            node.selected = true;
+                        }
+                    }
+                }
+            }
+            repaint();
+            JOptionPane.showMessageDialog(window, "Loaded selection from " + file.getAbsolutePath());
         } catch (Exception ex) {
             ex.printStackTrace();
         }

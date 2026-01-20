@@ -18,9 +18,10 @@ public class Run {
          */
 
         try {
-            File file = new File("lib/GraphFile");
+            File file = new File("lib/long_sword_map");
             Scanner scanner = new Scanner(file);
             GraphicGraph graph = new GraphicGraph();
+            graph.saveNodeFileName = "long_sword_saved.txt";
 
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
