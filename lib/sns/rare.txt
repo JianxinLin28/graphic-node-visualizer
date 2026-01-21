@@ -1,0 +1,183 @@
+Bone Kris,1
+Bone Kris+,1
+Chief Kris,1
+Crimson Club,2
+Monoblos Club,3
+Studded Club,4
+Spiked Bat,5
+Cursed Spirit,7
+Black Curse,10
+Dual Diablo,5
+Osteon Pick,6
+Osteon Pick+,6
+Melting Wail,6
+Rajang Club,7
+Taboo Rajang Club,8
+ForbiddenRajangClub,10
+Binding Blade,9
+Binding Blade+,9
+Great Kris,10
+Feather Knife,6
+Feather Sword,9
+Hi Feather Sword,9
+Kirin Bolt,5
+Kirin Bolt+,5
+Kirin Bolt Ultimus,7
+Thor's Dagger,8
+Kirin Bolts,5
+Weary Finsword,3
+Sandman Finsword,4
+Sandman Spike,5
+High Sandman Spike,7
+Red Saber,3
+Djinn,4
+Blazing Falchion,5
+Corona,5
+Golden Falchion,8
+Golden Falchion+,9
+Golden Eclipse,10
+Twin Flames,4
+Flame Syphos,5
+Black Doom Flame,7
+Red Divine Flame,10
+Bone Scythe,1
+Hunter's Dagger,1
+Hunter's Dagger+,1
+Assassin's Dagger,1
+Velocidrome Bite,2
+Velocidrome Bite+,2
+Dos Fang Dagger,6
+Odyssey,6
+Odyssey+,6
+Odyssey Blade,7
+Master Odyssey,9
+Heavy Bang,9
+Master Bang,9
+Thunderblade Vajra,9
+Thunderblade Vajra+,10
+Serpent Bite,6
+Serpent Bite+,7
+Hurricane,6
+Prototype Saw-Slicer,6
+Raven Blade,5
+Wolf Blade,7
+Crow Blade,9
+Velociprey Claws,3
+Thunderbane,3
+Frightbane,4
+Kirin Bolt Indora,5
+Poison Battleaxe,3
+Upper Battleaxe,4
+Deadly Battleaxe,6
+Dual Battleaxe,6
+Kitchen Knife,2
+Iron Chefblade,4
+Millennium Knife,6
+Frost Edge,2
+Frost Edge+,4
+Hi Frost Edge,6
+Ice Fang,9
+Freezing Daggers,4
+Twin Dagger,1
+Snake Bite,1
+Snake Bite+,2
+Viper Bite,2
+Deathprize,4
+Hydra Bite,3
+Deadly Poison,4
+Princess Rapier,5
+Princess Rapier+,6
+Queen Rapier,7
+Queen's Rose,9
+Royal Rose,10
+Rouge Flames,5
+Giaprey Claws,2
+Rusted Sword,1
+Tarnished Sword,1
+Eternal Strife,5
+Steel Ice Dagger,5
+Steel Ice Dagger+,5
+Daora's Razor,8
+Daora's Maelstrom,10
+Twin Nails,5
+Catspaw,2
+Catburglar,4
+Melynx Tool,3
+Melynx Gadget,6
+Shaka Poison Bite,4
+Shakalaka Saber,6
+Hexed Shaka Hatchet,9
+Hexed Shaka Sword,9
+Holy Saber,4
+Ninja Sword,5
+Hi Ninja Sword,8
+Black Belt Sword,4
+Expert Sword,8
+Warrior's Sword,10
+Hero's Blade Replica,4
+Master's Replica,5
+Legendary Replica,5
+Rusted Replica,4
+Eternal Replica,5
+Bladed Edge+,5
+Dual Carapace,7
+Dual Carapace+,9
+Dual Scissors,10
+Twin Shells,9
+Twin Shears,10
+Rex Talon,5
+Tigrex Sword,7
+Tigrex Sword+,10
+Hidden Edge,7
+Midnight Blades,10
+Flaming Pair,5
+Blue Ogre Sword,8
+Azure Ogre Sword,8
+Indigo Ogre Sword,10
+Black Sword,5
+Double Dragon,5
+Black Dragon Sword,8
+True Blk Dragon Swd,10
+Black Ruiner Sword,8
+True Blk Ruiner Swd,10
+Ultimus Heaven&Earth,8
+Azure Ogre Sword,8
+Indigo Ogre Sword,10
+Shining Wyvern Blade,8
+Ms. M.H. Puppet,9
+Ukanlos Soul Hatchet,10
+Hunter's Dagger G,9
+Chief Kris G,9
+Tarnished Sword G,9
+Snake Bite G,9
+Deathprize G,9
+Deadly Poison G,9
+Velocidrome Bite G,9
+Poison Battleaxe G,9
+Thunderbane G,9
+Sandman Finsword G,9
+Monoblos Club G,9
+Spiked Bat G,9
+Kirin Bolt G,9
+Kirin Bolt+ G,9
+Kirin Bolt Indora G,9
+Djinn G,9
+Catburglar G,9
+Eternal Strife G,9
+Odyssey G,9
+Osteon Pick G,9
+Serpent Bite G,9
+Millennium Knife G,9
+Hi Frost Edge G,9
+Deadly Battleaxe G,9
+High Sandman Spike G,9
+Blazing Falchion G,10
+Corona G,10
+Queen Rapier G,10
+Hi Ninja Sword G,10
+Thor's Dagger G,10
+Melynx Tool G,10
+Shakalaka Saber G,10
+Master's Blade G,10
+Eternal Treasure G,10
+ShiningWyvernBlade G,10

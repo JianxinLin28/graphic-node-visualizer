@@ -1,0 +1,145 @@
+SNS,Bone Kris
+SNS,Hunter's Dagger
+SNS,Rusted Sword
+SNS,Catspaw
+SNS,Holy Saber
+SNS,Black Belt Sword
+SNS,Hero's Blade Replica
+SNS,Rusted Replica
+SNS,Bladed Edge+
+SNS,Rex Talon
+SNS,Flaming Pair
+SNS,Black Sword
+SNS,Ultimus Heaven&Earth
+Bone Kris,Bone Kris+
+Bone Kris+,Chief Kris
+Chief Kris,Crimson Club
+Crimson Club,Monoblos Club
+Monoblos Club,Studded Club
+Studded Club,Spiked Bat
+Spiked Bat,Cursed Spirit
+Cursed Spirit,Black Curse
+Studded Club,Dual Diablo
+Studded Club,Osteon Pick
+Osteon Pick,Osteon Pick+
+Osteon Pick+,Melting Wail
+Osteon Pick+,Rajang Club
+Rajang Club,Taboo Rajang Club
+Taboo Rajang Club,ForbiddenRajangClub
+Osteon Pick+,Binding Blade
+Binding Blade,Binding Blade+
+Binding Blade+,Great Kris
+Osteon Pick,Feather Knife
+Feather Knife,Feather Sword
+Feather Sword,Hi Feather Sword
+Monoblos Club,Kirin Bolt
+Kirin Bolt,Kirin Bolt+
+Kirin Bolt+,Kirin Bolt Ultimus
+Kirin Bolt Ultimus,Thor's Dagger
+Kirin Bolt+,Kirin Bolts
+Chief Kris,Weary Finsword
+Weary Finsword,Sandman Finsword
+Sandman Finsword,Sandman Spike
+Sandman Spike,High Sandman Spike
+Chief Kris,Red Saber
+Red Saber,Djinn
+Djinn,Blazing Falchion
+Red Saber,Corona
+Corona,Golden Falchion
+Golden Falchion,Golden Falchion+
+Golden Falchion+,Golden Eclipse
+Red Saber,Twin Flames
+Red Saber,Flame Syphos
+Flame Syphos,Black Doom Flame
+Black Doom Flame,Red Divine Flame
+Bone Kris+,Bone Scythe+
+Hunter's Dagger,Hunter's Dagger+
+Hunter's Dagger+,Assassin's Dagger
+Assassin's Dagger,Velocidrome Bite
+Velocidrome Bite,Velocidrome Bite+
+Velocidrome Bite+,Dos Fang Dagger
+Velocidrome Bite+,Odyssey
+Odyssey,Odyssey+
+Odyssey+,Odyssey Blade
+Odyssey Blade,Master Odyssey
+Odyssey Blade,Heavy Bang
+Heavy Bang,Master Bang
+Odyssey Blade,Thunderblade Vajra
+Thunderblade Vajra,Thunderblade Vajra+
+Odyssey,Serpent Bite
+Serpent Bite,Serpent Bite+
+Odyssey,Hurricane
+Odyssey,Prototype Saw-Slicer
+Velocidrome Bite,Raven Blade
+Raven Blade,Wolf Blade
+Wolf Blade,Crow Blade
+Velocidrome Bite,Velociprey Claws
+Assassin's Dagger,Thunderbane
+Thunderbane,Frightbane
+Frightbane,Kirin Bolt Indora
+Assassin's Dagger,Poison Battleaxe
+Poison Battleaxe,Upper Battleaxe
+Upper Battleaxe,Deadly Battleaxe
+Upper Battleaxe,Dual Battleaxe
+Assassin's Dagger,Kitchen Knife
+Kitchen Knife,Iron Chefblade
+Iron Chefblade,Millennium Knife
+Hunter's Dagger+,Frost Edge
+Frost Edge,Frost Edge+
+Frost Edge+,Hi Frost Edge
+Hi Frost Edge,Ice Fang
+Frost Edge+,Freezing Daggers
+Hunter's Dagger+,Twin Dagger
+Hunter's Dagger,Snake Bite
+Snake Bite,Snake Bite+
+Snake Bite+,Viper Bite
+Viper Bite,Deathprize
+Snake Bite+,Hydra Bite
+Hydra Bite,Deadly Poison
+Deadly Poison,Princess Rapier
+Princess Rapier,Princess Rapier+
+Princess Rapier+,Queen Rapier
+Queen Rapier,Queen's Rose
+Queen's Rose,Royal Rose
+Deadly Poison,Rouge Flames
+Hunter's Dagger,Giaprey Claws
+Rusted Sword,Tarnished Sword
+Tarnished Sword,Eternal Strife
+Tarnished Sword,Steel Ice Dagger
+Steel Ice Dagger,Steel Ice Dagger+
+Steel Ice Dagger+,Daora's Razor
+Daora's Razor,Daora's Maelstrom
+Steel Ice Dagger+,Twin Nails
+Catspaw,Catburglar
+Catspaw,Melynx Tool
+Melynx Tool,Melynx Gadget
+Melynx Tool,Shaka Poison Bite
+Shaka Poison Bite,Shakalaka Saber
+Shakalaka Saber,Hexed Shaka Hatchet
+Hexed Shaka Hatchet,Hexed Shaka Sword
+Holy Saber,Ninja Sword
+Ninja Sword,Hi Ninja Sword
+Black Belt Sword,Expert Sword
+Expert Sword,Warrior's Sword
+Hero's Blade Replica,Master's Replica
+Hero's Blade Replica,Legendary Replica
+Rusted Replica,Eternal Replica
+Bladed Edge+,Dual Carapace
+Dual Carapace,Dual Carapace+
+Dual Carapace+,Dual Scissors
+Dual Carapace+,Twin Shells
+Twin Shells,Twin Shears
+Rex Talon,Tigrex Sword
+Tigrex Sword,Tigrex Sword+
+Rex Talon,Hidden Edge
+Hidden Edge,Midnight Blades
+Flaming Pair,Blue Ogre Sword
+Blue Ogre Sword,Azure Ogre Sword
+Azure Ogre Sword,Indigo Ogre Sword
+Black Sword,Double Dragon
+Black Sword,Black Dragon Sword
+Black Dragon Sword,True Blk Dragon Swd
+Black Sword,Black Ruiner Sword
+Black Ruiner Sword,True Blk Ruiner Swd
+Ultimus Heaven&Earth,Azure Ogre Sword
+Azure Ogre Sword,Indigo Ogre Sword

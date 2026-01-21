@@ -1,0 +1,203 @@
+Rusted Hammer,1
+Tarnished Hammer,1
+Breath Core Hammer,5
+Jadite Mace,5
+Jade Mace,5
+Lunastra's Crown,8
+Luna's Skirt,10
+War Hammer,1
+War Hammer+,1
+War Mace,1
+Iron Striker,2
+Iron Striker+,2
+Anvil Hammer,5
+Onslaught Hammer,6
+Blacksmith,9
+Juggernaut,9
+Lava Alphorn,9
+War Stamp,6
+War Basher,7
+Bronze Bell,5
+Sakura Recorder,5
+Iron Devil,6
+Great Demon Hammer,6
+Devil Masher,8
+Devil Masher+,9
+Iron Devil's Soul,9
+Iron Impact,7
+Iron Repellant,9
+Icy Impact,9
+Axion,9
+Fist of Fury,7
+Ancient Blow,8
+Foolhardy Stone Fist,10
+Gunhammer Prototype,3
+Dead Revolver,5
+Sanctioned Gunhammer,6
+Regulation GunHammer,9
+ImperialGunHmmrSpark,10
+Anchor Hammer,3
+Anchor Hammer+,4
+Anchor Crusher,6
+Black Cauldron,3
+True Black Cauldron,6
+One Star Silver Pot,4
+Two Star Silver Pot,7
+Bone Axe,2
+Bone Broadaxe,4
+Bone Great Axe,6
+Ceanataur Head Axe,7
+Big Blue Chopper,10
+Carmine Axe,9
+The Great Divider,10
+Metal Bagpipe,2
+Spiked Hammer,2
+Spiked Hammer+,2
+Crystal Hammer,3
+Crystal Nova,4
+Great Nova,6
+Super Nova,9
+Gigaton Hammer,4
+Titan Hammer,5
+Shell Hammer,4
+Graviton Hammer,5
+Torment Hammer,6
+Torment (Purgatory),7
+Crater Maker,7
+VenomousCraterMaker,9
+Glasya-Labolas,10
+Basarios Rock,4
+Bone Club,1
+Large Bone Club,1
+Enormous Ham,2
+Ham of Hams,6
+Cyclo-Hammer,1
+Atlas Hammer,2
+Kut-Ku Jaw,3
+Kut-Ku Pick,4
+Hard Bone Hammer,6
+Hard Bone Hammer+,6
+Diablos Hammer,6
+Diablo Chaos Broker,7
+Chaotic Order,10
+Lobster Hammer,6
+King Lobster Hammer,7
+Royal Lobster Hammer,9
+Feather Whistle,6
+Raven Torrent,5
+Wolf Torrent,7
+Crow Torrent,9
+Wolf Shamisen,7
+Dynamic Hammer,3
+Violence Hammer,6
+Mysterious Jaw,9
+Venom Monster,3
+Death Venom Hammer,7
+Purple Mace,9
+Pitohui Bird Mace,9
+Jail Hammer,3
+Binder Mace,4
+Khezu Horn,3
+Skullcrusher,2
+Skullcrusher+,2
+Diablos Maul,4
+Finishing Hammer,5
+Dragonhead Hammer,3
+Ancient Relic,5
+Shell Castanet,7
+Basarios Blow,4
+Basarios Bash,7
+Sonic Glass,3
+Conehead Hammer,2
+Conehead Hammer+,4
+Great Cone,7
+Desert Cone,9
+Magnitude,10
+Bone Horn,2
+Bull Hammer,2
+Bull Head Hammer,3
+Bull Tusk Hammer,4
+Giaprey Balloon,2
+White Cat Stamp,2
+White Cat Hammer,6
+Black Cat Stamp,4
+Black Cat Hammer,6
+Gold Cat Hammer,8
+Gold Cat Crusher,9
+Teddybear,4
+Cactus Creamer,3
+Green Monster,6
+Black Belt Hammer,4
+Expert Hammer,8
+Warrior's Hammer,10
+dummy (Amezari Hammer),4
+dummy (Amezari Hammer+),6
+dummy (Amezari Impact),9
+Khezu Horn+,4
+Purse Bop,7
+Purse Bop+,9
+Khezu Thunder,10
+dummy (Polytan),4
+dummy (Polytan G),6
+dummy (True Polytan G),9
+Striped Striker,5
+Tigrex Hammer,7
+Tigrex Hammer+,10
+Hidden Breaker,7
+Deep Darkhammer,10
+Black Hammer,5
+Fatalis Buster,8
+Fatalis Demolisher,10
+AncientFatalisBuster,8
+AncientFatalisRuiner,10
+Dragon Destroyer,5
+Dragonbreaker,5
+Dragon Demolisher,8
+Claw of Doom,10
+Worn Hammer,6
+Weathered Hammer,6
+Pulsating Core,7
+Pulse Crusher Core,9
+Steel Ice Hammer,7
+Daora's Colossus,8
+Daora's Hyperborea,10
+Ukanlos Trampler,10
+Bone Club G,9
+War Hammer G,9
+Tarnished Hammer G,9
+Spiked Hammer G,9
+Iron Striker G,9
+Atlas Hammer G,9
+Bone Axe G,9
+Skullcrusher G,9
+Bull Tusk Hammer G,9
+Crystal Nova G,9
+Binder Mace G,9
+Kut-Ku Jaw G,9
+Venom Monster G,9
+Dead Revolver G,9
+Anchor Crusher G,9
+Kut-Ku Pick G,9
+Dragonhead Hammer G,9
+Basarios Bash G,9
+Titan Hammer G,9
+Finishing Hammer G,9
+TrueBlackCauldron G,9
+Enormous Ham G,9
+Teddybear G,9
+Cactus Creamer G,9
+White Cat Hammer G,9
+Black Cat Hammer G,9
+Black Belt Hammer G,9
+Breath Core Hammer G,9
+Polytan G,9
+Great Demon Hammer G,9
+Hard Bone Hammer G,9
+TwoStarSilverPot G,9
+Great Cone G,9
+Onslaught Hammer G,10
+War Basher G,10
+SanctionedGunHammr G,10
+Crater Maker G,10
+Torment(Purgatory) G,10
+Dragonbreaker G,10

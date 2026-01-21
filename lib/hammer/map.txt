@@ -1,0 +1,163 @@
+Hammer,Rusted Hammer
+Hammer,War Hammer
+Hammer,Bone Club
+Hammer,White Cat Stamp
+Hammer,Cactus Creamer
+Hammer,Black Belt Hammer
+Hammer,dummy (Amezari Hammer)
+Hammer,Khezu Horn+
+Hammer,dummy (Polytan)
+Hammer,Striped Striker
+Hammer,Black Hammer
+Hammer,Dragon Destroyer
+Hammer,Worn Hammer
+Rusted Hammer,Tarnished Hammer
+Tarnished Hammer,Breath Core Hammer
+Tarnished Hammer,Jadite Mace
+Jadite Mace,Jade Mace
+Jade Mace,Lunastra's Crown
+Lunastra's Crown,Luna's Skirt
+War Hammer,War Hammer+
+War Hammer+,War Mace
+War Mace,Iron Striker
+Iron Striker,Iron Striker+
+Iron Striker+,Anvil Hammer
+Anvil Hammer,Onslaught Hammer
+Onslaught Hammer,Blacksmith
+Blacksmith,Juggernaut
+Blacksmith,Lava Alphorn
+Anvil Hammer,War Stamp
+War Stamp,War Basher
+Anvil Hammer,Bronze Bell
+Anvil Hammer,Sakura Recorder
+Anvil Hammer,Iron Devil
+Iron Devil,Great Demon Hammer
+Great Demon Hammer,Devil Masher
+Devil Masher,Devil Masher+
+Devil Masher+,Iron Devil's Soul
+Great Demon Hammer,Iron Impact
+Iron Impact,Iron Repellant
+Iron Impact,Icy Impact
+Icy Impact,Axion
+Iron Devil,Fist of Fury
+Fist of Fury,Ancient Blow
+Ancient Blow,Foolhardy Stone Fist
+Iron Striker,Gunhammer Prototype
+Gunhammer Prototype,Dead Revolver
+Dead Revolver,Sanctioned Gunhammer
+Sanctioned Gunhammer,Regulation GunHammer
+Regulation GunHammer,ImperialGunHmmrSpark
+War Mace,Anchor Hammer
+Anchor Hammer,Anchor Hammer+
+Anchor Hammer+,Anchor Crusher
+War Mace,Black Cauldron
+Black Cauldron,True Black Cauldron
+Black Cauldron,One Star Silver Pot
+One Star Silver Pot,Two Star Silver Pot
+War Mace,Bone Axe
+Bone Axe,Bone Broadaxe
+Bone Broadaxe,Bone Great Axe
+Bone Great Axe,Ceanataur Head Axe
+Ceanataur Head Axe,Big Blue Chopper
+Ceanataur Head Axe,Carmine Axe
+Carmine Axe,The Great Divider
+War Mace,Metal Bagpipe
+War Hammer+,Spiked Hammer
+Spiked Hammer,Spiked Hammer+
+Spiked Hammer+,Crystal Hammer
+Crystal Hammer,Crystal Nova
+Crystal Nova,Great Nova
+Great Nova,Super Nova
+Crystal Nova,Gigaton Hammer
+Gigaton Hammer,Titan Hammer
+Spiked Hammer+,Shell Hammer
+Shell Hammer,Graviton Hammer
+Graviton Hammer,Torment Hammer
+Torment Hammer,Torment (Purgatory)
+Graviton Hammer,Crater Maker
+Crater Maker,VenomousCraterMaker
+VenomousCraterMaker,Glasya-Labolas
+Spiked Hammer+,Basarios Rock
+Bone Club,Large Bone Club
+Large Bone Club,Enormous Ham
+Enormous Ham,Ham of Hams
+Bone Club,Cyclo-Hammer
+Cyclo-Hammer,Atlas Hammer
+Atlas Hammer,Kut-Ku Jaw
+Kut-Ku Jaw,Kut-Ku Pick
+Kut-Ku Pick,Hard Bone Hammer
+Hard Bone Hammer,Hard Bone Hammer+
+Hard Bone Hammer+,Diablos Hammer
+Diablos Hammer,Diablo Chaos Broker
+Diablo Chaos Broker,Chaotic Order
+Hard Bone Hammer,Lobster Hammer
+Lobster Hammer,King Lobster Hammer
+King Lobster Hammer,Royal Lobster Hammer
+Kut-Ku Pick,Feather Whistle
+Kut-Ku Jaw,Raven Torrent
+Raven Torrent,Wolf Torrent
+Wolf Torrent,Crow Torrent
+Wolf Torrent,Wolf Shamisen
+Kut-Ku Jaw,Dynamic Hammer
+Dynamic Hammer,Violence Hammer
+Violence Hammer,Mysterious Jaw
+Kut-Ku Jaw,Venom Monster
+Venom Monster,Death Venom Hammer
+Death Venom Hammer,Purple Mace
+Purple Mace,Pitohui Bird Mace
+Atlas Hammer,Jail Hammer
+Jail Hammer,Binder Mace
+Atlas Hammer,Khezu Horn
+Cyclo-Hammer,Skullcrusher
+Skullcrusher,Skullcrusher+
+Skullcrusher+,Diablos Maul
+Diablos Maul,Finishing Hammer
+Skullcrusher+,Dragonhead Hammer
+Dragonhead Hammer,Ancient Relic
+Ancient Relic,Shell Castanet
+Dragonhead Hammer,Basarios Blow
+Basarios Blow,Basarios Bash
+Skullcrusher+,Sonic Glass
+Cyclo-Hammer,Conehead Hammer
+Conehead Hammer,Conehead Hammer+
+Conehead Hammer+,Great Cone
+Great Cone,Desert Cone
+Desert Cone,Magnitude
+Cyclo-Hammer,Bone Horn
+Bone Club,Bull Hammer
+Bull Hammer,Bull Head Hammer
+Bull Head Hammer,Bull Tusk Hammer
+Bone Club,Giaprey Balloon
+White Cat Stamp,White Cat Hammer
+White Cat Stamp,Black Cat Stamp
+Black Cat Stamp,Black Cat Hammer
+Black Cat Stamp,Gold Cat Hammer
+Gold Cat Hammer,Gold Cat Crusher
+White Cat Stamp,Teddybear
+Cactus Creamer,Green Monster
+Black Belt Hammer,Expert Hammer
+Expert Hammer,Warrior's Hammer
+dummy (Amezari Hammer),dummy (Amezari Hammer+)
+dummy (Amezari Hammer+),dummy (Amezari Impact)
+Khezu Horn+,Purse Bop
+Purse Bop,Purse Bop+
+Purse Bop+,Khezu Thunder
+dummy (Polytan),dummy (Polytan G)
+dummy (Polytan G),dummy (True Polytan G)
+Striped Striker,Tigrex Hammer
+Tigrex Hammer,Tigrex Hammer+
+Striped Striker,Hidden Breaker
+Hidden Breaker,Deep Darkhammer
+Black Hammer,Fatalis Buster
+Fatalis Buster,Fatalis Demolisher
+Black Hammer,AncientFatalisBuster
+AncientFatalisBuster,AncientFatalisRuiner
+Dragon Destroyer,Dragonbreaker
+Dragonbreaker,Dragon Demolisher
+Dragon Demolisher,Claw of Doom
+Worn Hammer,Weathered Hammer
+Weathered Hammer,Pulsating Core
+Pulsating Core,Pulse Crusher Core
+Weathered Hammer,Steel Ice Hammer
+Steel Ice Hammer,Daora's Colossus
+Daora's Colossus,Daora's Hyperborea

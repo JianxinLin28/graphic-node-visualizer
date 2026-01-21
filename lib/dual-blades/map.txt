@@ -1,0 +1,160 @@
+Dual Blades,Bone Scythe
+Dual Blades,Hunter's Dagger+
+Dual Blades,Hunter's Dagger
+Dual Blades,Bone Kris+
+Dual Blades,Velocidrome Bite
+Dual Blades,Red Saber
+Dual Blades,Hero's Blade Replica
+Dual Blades,Felyne and Melynx
+Dual Blades,Studded Club
+Dual Blades,dummy (Dual Tessen "Gavas")
+Dual Blades,Deadly Poison
+Dual Blades,Frost Edge+
+Dual Blades,Upper Battleaxe
+Dual Blades,Rex Slicers
+Dual Blades,Black Twin Daggers
+Dual Blades,Flaming Pair
+Dual Blades,Kirin Bolt+
+Dual Blades,Black Sword
+Dual Blades,Steel Ice Dagger+
+Dual Blades,Worn Blades
+Dual Blades,Osteon Pick+
+Dual Blades,Odyssey
+Dual Blades,Akantor Blades
+Bone Scythe,Bone Scythe+
+Bone Scythe+,Chief Scythe
+Chief Scythe,Bladed Edge
+Bladed Edge,Bladed Edge+
+Bladed Edge+,Limb Cutter
+Limb Cutter,Carmine Edge
+Carmine Edge,Red Rippers
+Bladed Edge+,Dual Carapace
+Chief Scythe,Cutlass
+Cutlass,Cutlass+
+Chief Scythe,Twin Kut-Ku
+Twin Kut-Ku,Pink Maracas
+Pink Maracas,Pink Maracas+
+Pink Maracas+,Funky Maracas
+Funky Maracas,Jungle Maracas
+Jungle Maracas,Evergreen
+Twin Kut-Ku,Twin Kut-Ku+
+Twin Kut-Ku+,Dual Kut-Ku
+Twin Kut-Ku,Raven Tessen
+Raven Tessen,Wolf Tessen
+Wolf Tessen,Crow Tessen
+Hunter's Dagger+,Twin Dagger
+Twin Dagger,Twin Dagger+
+Twin Dagger+,Glutton's Set
+Glutton's Set,Spatula Set
+Glutton's Set,Chereau's Tool
+Twin Dagger+,Insector
+Insector,Insector+
+Insector+,Insect Slicer
+Insect Slicer,Alated Insect
+Alated Insect,Insect Lord
+Twin Dagger+,Dual Tomahawk
+Dual Tomahawk,Order Rapier
+Order Rapier,Holy Saber
+Holy Saber,Guild Knight Sabers
+Guild Knight Sabers,Master Sabers
+Master Sabers,Holy Guild Knight
+Holy Saber,Ninja Sword
+Dual Tomahawk,Dual Tomahawk+
+Hunter's Dagger,Giaprey Claws
+Giaprey Claws,Giaprey Claws+
+Giaprey Claws+,White Death
+Giaprey Claws+,Velociprey Claws
+Velociprey Claws,Velociprey Claws+
+Velociprey Claws+,Hi Velociprey Claws
+Giaprey Claws+,Snow Venom
+Snow Venom,Snow Venom+
+Snow Venom+,Glacial Medusa
+Bone Kris+,Bone Scythe
+Bone Scythe,Bone Scythe+
+Bone Scythe+,Chief Scythe
+Chief Scythe,Bladed Edge
+Bladed Edge,Bladed Edge+
+Bladed Edge+,Limb Cutter
+Limb Cutter,Carmine Edge
+Carmine Edge,Red Rippers
+Bladed Edge+,Dual Carapace
+Chief Scythe,Cutlass
+Cutlass,Cutlass+
+Chief Scythe,Twin Kut-Ku
+Twin Kut-Ku,Pink Maracas
+Pink Maracas,Pink Maracas+
+Pink Maracas+,Funky Maracas
+Funky Maracas,Jungle Maracas
+Jungle Maracas,Evergreen
+Twin Kut-Ku,Twin Kut-Ku+
+Twin Kut-Ku+,Dual Kut-Ku
+Twin Kut-Ku,Raven Tessen
+Raven Tessen,Wolf Tessen
+Wolf Tessen,Crow Tessen
+Velocidrome Bite,Velociprey Claws
+Velociprey Claws,Velociprey Claws+
+Velociprey Claws+,Hi Velociprey Claws
+Red Saber,Twin Flames
+Twin Flames,Hi Twin Flames
+Hi Twin Flames,Gradios Ultimus
+Gradios Ultimus,Corpse Blades
+Corpse Blades,Punishment Blades
+Hero's Blade Replica,Legendary Replica
+Felyne and Melynx,Felyne and Melynx+
+Studded Club,Dual Diablo
+Dual Diablo,Dual Diablo+
+Dual Diablo+,Blos Doppelganger
+Blos Doppelganger,Grand Blos
+dummy (Dual Tessen "Gavas"),dummy (DualTessen "100Gavas")
+dummy (DualTessen "100Gavas"),dummy (DualTessen "10KGavas")
+Deadly Poison,Rouge Flames
+Rouge Flames,Dual Chameleos
+Dual Chameleos,ChameleosDualBlades
+Frost Edge+,Freezing Daggers
+Freezing Daggers,Icicle Daggers
+Icicle Daggers,Frozen Death
+Upper Battleaxe,Dual Battleaxe
+Dual Battleaxe,Dual Battleaxe+
+Dual Battleaxe+,Final Battleaxe
+Rex Slicers,Tigrex Claws
+Tigrex Claws,Tigrex Claws+
+Rex Slicers,Hidden Ones
+Hidden Ones,Ebony Wings
+Black Twin Daggers,Fatalis Dual Blades
+Fatalis Dual Blades,Fatalis Dual Sky
+Black Twin Daggers,Ultimus Celestials
+Ultimus Celestials,Ultimus Apocalypse
+Flaming Pair,Crimson Lotus Blades
+Crimson Lotus Blades,Demonic Flaming Pair
+Demonic Flaming Pair,Azure Dual Swords
+Flaming Pair,Blue Ogre Sword
+Kirin Bolt+,Kirin Bolts
+Kirin Bolts,Festive Fall Typhoon
+Festive Fall Typhoon,FestiveRustlingRain
+Black Sword,Double Dragon
+Double Dragon,Dual Dragon Ultimus
+Dual Dragon Ultimus,Ultimus Heaven&Earth
+Ultimus Heaven&Earth,Dual Dragon Ultimus+
+Ultimus Heaven&Earth,Azure Ogre Sword
+Steel Ice Dagger+,Twin Nails
+Twin Nails,Twin Nails+
+Twin Nails+,Fire and Ice
+Worn Blades,Weathered Blades
+Weathered Blades,Eternal Schism
+Eternal Schism,Eternal Sacrifice
+Weathered Blades,Hi Twin Daggers
+Hi Twin Daggers,Silhouette Sabers
+Osteon Pick+,Melting Wail
+Melting Wail,Melting Wail+
+Melting Wail+,Melting Blazer
+Odyssey,Hurricane
+Hurricane,Cyclone
+Cyclone,Tornado Tomahawks
+Tornado Tomahawks,Typhoon
+Tornado Tomahawks,Firestorm
+Firestorm,Volcanic Storm
+Odyssey,Prototype Saw-Slicer
+Prototype Saw-Slicer,Sanctioned Blades
+Sanctioned Blades,Improved Power Saws
+Improved Power Saws,Divine Power Saws
+Akantor Blades,Akantor Shadow Claws

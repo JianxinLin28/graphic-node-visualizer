@@ -1,0 +1,184 @@
+Bone Scythe,1
+Bone Scythe+,2
+Chief Scythe,2
+Bladed Edge,4
+Bladed Edge+,5
+Limb Cutter,7
+Carmine Edge,9
+Red Rippers,10
+Dual Carapace,7
+Cutlass,3
+Cutlass+,5
+Twin Kut-Ku,2
+Pink Maracas,3
+Pink Maracas+,4
+Funky Maracas,6
+Jungle Maracas,9
+Evergreen,9
+Twin Kut-Ku+,4
+Dual Kut-Ku,6
+Raven Tessen,5
+Wolf Tessen,7
+Crow Tessen,9
+Hunter's Dagger+,1
+Twin Dagger,1
+Twin Dagger+,2
+Glutton's Set,2
+Spatula Set,4
+Chereau's Tool,6
+Insector,3
+Insector+,4
+Insect Slicer,6
+Alated Insect,9
+Insect Lord,9
+Dual Tomahawk,2
+Order Rapier,3
+Holy Saber,4
+Guild Knight Sabers,7
+Master Sabers,9
+Holy Guild Knight,10
+Ninja Sword,5
+Dual Tomahawk+,4
+Hunter's Dagger,1
+Giaprey Claws,2
+Giaprey Claws+,2
+White Death,6
+Velociprey Claws,3
+Velociprey Claws+,4
+Hi Velociprey Claws,6
+Snow Venom,4
+Snow Venom+,6
+Glacial Medusa,9
+Bone Kris+,1
+Bone Scythe,1
+Bone Scythe+,2
+Chief Scythe,2
+Bladed Edge,4
+Bladed Edge+,5
+Limb Cutter,7
+Carmine Edge,9
+Red Rippers,10
+Dual Carapace,7
+Cutlass,3
+Cutlass+,5
+Twin Kut-Ku,2
+Pink Maracas,3
+Pink Maracas+,4
+Funky Maracas,6
+Jungle Maracas,9
+Evergreen,9
+Twin Kut-Ku+,4
+Dual Kut-Ku,6
+Raven Tessen,5
+Wolf Tessen,7
+Crow Tessen,9
+Velocidrome Bite,2
+Velociprey Claws,3
+Velociprey Claws+,4
+Hi Velociprey Claws,6
+Red Saber,3
+Twin Flames,4
+Hi Twin Flames,5
+Gradios Ultimus,7
+Corpse Blades,8
+Punishment Blades,10
+Hero's Blade Replica,4
+Legendary Replica,5
+Felyne and Melynx,4
+Felyne and Melynx+,9
+Studded Club,4
+Dual Diablo,5
+Dual Diablo+,7
+Blos Doppelganger,9
+Grand Blos,10
+dummy (Dual Tessen "Gavas"),4
+dummy (DualTessen "100Gavas"),6
+dummy (DualTessen "10KGavas"),9
+Deadly Poison,4
+Rouge Flames,5
+Dual Chameleos,8
+ChameleosDualBlades,10
+Frost Edge+,4
+Freezing Daggers,4
+Icicle Daggers,6
+Frozen Death,9
+Upper Battleaxe,4
+Dual Battleaxe,6
+Dual Battleaxe+,9
+Final Battleaxe,10
+Rex Slicers,5
+Tigrex Claws,7
+Tigrex Claws+,10
+Hidden Ones,7
+Ebony Wings,10
+Black Twin Daggers,5
+Fatalis Dual Blades,8
+Fatalis Dual Sky,10
+Ultimus Celestials,8
+Ultimus Apocalypse,10
+Flaming Pair,5
+Crimson Lotus Blades,8
+Demonic Flaming Pair,9
+Azure Dual Swords,10
+Blue Ogre Sword,8
+Kirin Bolt+,5
+Kirin Bolts,5
+Festive Fall Typhoon,8
+FestiveRustlingRain,10
+Black Sword,5
+Double Dragon,5
+Dual Dragon Ultimus,7
+Ultimus Heaven&Earth,8
+Dual Dragon Ultimus+,10
+Azure Ogre Sword,8
+Steel Ice Dagger+,5
+Twin Nails,5
+Twin Nails+,8
+Fire and Ice,10
+Worn Blades,6
+Weathered Blades,6
+Eternal Schism,7
+Eternal Sacrifice,9
+Hi Twin Daggers,6
+Silhouette Sabers,7
+Osteon Pick+,6
+Melting Wail,6
+Melting Wail+,7
+Melting Blazer,10
+Odyssey,6
+Hurricane,6
+Cyclone,7
+Tornado Tomahawks,9
+Typhoon,9
+Firestorm,9
+Volcanic Storm,10
+Prototype Saw-Slicer,6
+Sanctioned Blades,7
+Improved Power Saws,8
+Divine Power Saws,9
+Akantor Blades,8
+Akantor Shadow Claws,10
+UkanlosRuinerBlades,10
+dummy (Amezari Claws),9
+Bone Scythe G,9
+Worn Blades G,9
+Velociprey Claws G,9
+White Death G,9
+Dual Tomahawk G,9
+Insector G,9
+Glutton's Set G,9
+Spatula Set G,9
+Holy Saber G,9
+Cyclone G,9
+Dual Kut-Ku G,9
+Funky Maracas G,9
+PrototypeSaw-Slicr G,9
+Cutlass G,9
+Limb Cutter G,9
+Dual Diablo G,9
+Silhouette Sabers G,10
+Gradios Ultimus G,10
+Kirin Bolts G,10
+CrimsonLotusBlades G,10
+DualDragonUltimus G,10
+Legendary Blades G,10

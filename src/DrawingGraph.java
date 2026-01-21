@@ -45,9 +45,9 @@ public class DrawingGraph extends JComponent {
 
         colorMap.put(1, Color.BLACK);
         colorMap.put(2, Color.BLACK);
-        colorMap.put(3, Color.GREEN);
-        colorMap.put(4, Color.GREEN);
-        colorMap.put(5, Color.PINK);
+        colorMap.put(3, Color.BLACK);
+        colorMap.put(4, new Color(19, 143, 0));
+        colorMap.put(5, new Color(255, 0, 146));
         colorMap.put(6, Color.BLUE);
         colorMap.put(7, new Color(158, 68, 0));
         colorMap.put(8, Color.RED);
@@ -104,8 +104,9 @@ public class DrawingGraph extends JComponent {
             for (String s : selectedData) {
                 out.println(s);
             }
-            JOptionPane.showMessageDialog(window,
-                    "Saved " + selectedData.size() + " selected nodes to " + file.getAbsolutePath());
+            System.out.println("Saved " + selectedData.size() + " selected nodes to " + file.getAbsolutePath());
+//            JOptionPane.showMessageDialog(window,
+//                    "Saved " + selectedData.size() + " selected nodes to " + file.getAbsolutePath());
         } catch (Exception ex) {
             ex.printStackTrace();
         }
@@ -138,7 +139,8 @@ public class DrawingGraph extends JComponent {
                 }
             }
             repaint();
-            JOptionPane.showMessageDialog(window, "Loaded selection from " + file.getAbsolutePath());
+//            JOptionPane.showMessageDialog(window, "Loaded selection from " + file.getAbsolutePath());
+            System.out.println("Loaded selection from " + file.getAbsolutePath());
         } catch (Exception ex) {
             ex.printStackTrace();
         }
@@ -226,7 +228,11 @@ public class DrawingGraph extends JComponent {
 
                 // edges
                 for (GraphNode neighbor : node.neighbors) {
-                    g.setColor(invert % 2 == 0 ? Color.GREEN : Color.RED);
+                    int neighborRarity = rarityMap.getOrDefault(String.valueOf(neighbor.data), 1);
+                    Color neighborColor = colorMap.getOrDefault(neighborRarity, Color.BLACK);
+
+//                    g.setColor(invert % 2 == 0 ? Color.GREEN : Color.RED);
+                    g.setColor(neighborColor);
 
                     if (!neighbor.neighbors.contains(node)) {
                         if (neighbor.level >= node.level) {
