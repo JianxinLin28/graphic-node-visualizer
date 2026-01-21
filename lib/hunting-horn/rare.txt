@@ -1,0 +1,115 @@
+Cyclo-Hammer,1
+Bone Horn,2
+Bone Horn+,4
+Hunter's Horn,6
+Hunter's Horn+,9
+Native's Horn,9
+Blessed Ocarina,5
+Cursed Ocarina,8
+Genie's Ocarina,10
+Bone Club,1
+Giaprey Balloon,2
+Giaprey Balloon+,3
+Giadrome Balloon,6
+Velociprey Balloon,6
+Velociprey Balloon+,7
+Velocidrome Balloon,9
+Velocidrome Balloon+,9
+War Mace,1
+Metal Bagpipe,2
+Great Bagpipe,4
+Heavy Bagpipe,6
+Heavy Bagpipe+,7
+Master Bagpipe,9
+Sforzando,9
+Ivory Horn,1
+Bone Horn,2
+Bone Horn+,4
+Hunter's Horn,6
+Hunter's Horn+,9
+Native's Horn,9
+Blessed Ocarina,5
+Cursed Ocarina,8
+Genie's Ocarina,10
+War Drum,3
+War Drum+,4
+War Bongo,6
+War Conga,7
+Conga Conga,9
+Jungle Bongo,9
+Jungle Conga,9
+Atlas Hammer,2
+Khezu Horn,3
+Khezu Horn+,4
+Khezu Flute,6
+Blood Horn,6
+Blood Flute,7
+Blood Flute+,9
+Brute Flute,9
+Purse Bop,7
+Skullcrusher+,2
+Sonic Glass,3
+Sonic Glass+,4
+Glass Queen,6
+Glass Royale,9
+Queen's Flute,9
+Spiked Hammer+,2
+Basarios Rock,4
+Basarios Rock Mk.II,5
+Volcanic Rock,7
+Volcanic Gig,9
+Kut-Ku Pick,4
+Feather Whistle,6
+Hypno Whistle,9
+Hypno Slide Whistle,9
+Ancient Relic,5
+Shell Castanet,7
+Shell Castanet+,9
+Bi-Colored Castanet,10
+Crabby Castanet,9
+Klick-Klack,10
+Black Lute,5
+Fatalis Menace,8
+Fatalis Menace Lute,10
+Ancient Fatalis Lied,8
+Ancient Fatalis Lute,10
+Dragonwood Horn,5
+Spirit Dragonwd Horn,8
+AncientDrgnwoodFlute,9
+DivineAncDrgnwdFlute,10
+Striped Dragonga,5
+Tigrex Horn,7
+Tigrex Horn+,10
+Hidden Tone,7
+Demon's Darkflute,10
+Anvil Hammer,5
+Bronze Bell,5
+Gaoren Bell,8
+Gaoren Zhong,10
+Sakura Recorder,5
+Sakura Recorder+,7
+Gold Recorder,8
+Gold Recorder+,9
+Lunar Recorder,10
+Handmade Frog,6
+Handcrafted Frog,9
+Wolf Torrent,7
+Wolf Shamisen,7
+Crow Shamisen,9
+Akantor Horn,8
+Akantor Dark Melody,10
+Blacksmith,9
+Lava Alphorn,9
+Volcano Alphorn,10
+Ukanlos Horned Flute,10
+Bone Horn G,9
+War Drum G,9
+Great Bagpipe G,9
+Khezu Flute G,9
+Basarios Rock G,9
+Glass Queen G,9
+Heavy Bagpipe G,9
+Velociprey Balloon G,9
+Giadrome Balloon G,9
+Sakura Recorder G,10
+Spirit Dragonwd Horn G,10

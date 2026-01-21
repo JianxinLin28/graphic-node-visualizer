@@ -1,0 +1,103 @@
+Hunting Horn,Cyclo-Hammer
+Hunting Horn,Bone Club
+Hunting Horn,War Mace
+Hunting Horn,Ivory Horn
+Hunting Horn,Atlas Hammer
+Hunting Horn,Skullcrusher+
+Hunting Horn,Spiked Hammer+
+Hunting Horn,Kut-Ku Pick
+Hunting Horn,Ancient Relic
+Hunting Horn,Black Lute
+Hunting Horn,Dragonwood Horn
+Hunting Horn,Striped Dragonga
+Hunting Horn,Anvil Hammer
+Hunting Horn,Handmade Frog
+Hunting Horn,Wolf Torrent
+Hunting Horn,Akantor Horn
+Hunting Horn,Blacksmith
+Cyclo-Hammer,Bone Horn
+Bone Horn,Bone Horn+
+Bone Horn+,Hunter's Horn
+Hunter's Horn,Hunter's Horn+
+Hunter's Horn+,Native's Horn
+Bone Horn,Blessed Ocarina
+Blessed Ocarina,Cursed Ocarina
+Cursed Ocarina,Genie's Ocarina
+Bone Club,Giaprey Balloon
+Giaprey Balloon,Giaprey Balloon+
+Giaprey Balloon+,Giadrome Balloon
+Giaprey Balloon+,Velociprey Balloon
+Velociprey Balloon,Velociprey Balloon+
+Velociprey Balloon+,Velocidrome Balloon
+Velocidrome Balloon,Velocidrome Balloon+
+War Mace,Metal Bagpipe
+Metal Bagpipe,Great Bagpipe
+Great Bagpipe,Heavy Bagpipe
+Heavy Bagpipe,Heavy Bagpipe+
+Heavy Bagpipe+,Master Bagpipe
+Master Bagpipe,Sforzando
+Ivory Horn,Bone Horn
+Bone Horn,Bone Horn+
+Bone Horn+,Hunter's Horn
+Hunter's Horn,Hunter's Horn+
+Hunter's Horn+,Native's Horn
+Bone Horn,Blessed Ocarina
+Blessed Ocarina,Cursed Ocarina
+Cursed Ocarina,Genie's Ocarina
+Ivory Horn,War Drum
+War Drum,War Drum+
+War Drum+,War Bongo
+War Bongo,War Conga
+War Conga,Conga Conga
+War Conga,Jungle Bongo
+Jungle Bongo,Jungle Conga
+Atlas Hammer,Khezu Horn
+Khezu Horn,Khezu Horn+
+Khezu Horn+,Khezu Flute
+Khezu Horn+,Blood Horn
+Blood Horn,Blood Flute
+Blood Flute,Blood Flute+
+Blood Flute+,Brute Flute
+Khezu Horn+,Purse Bop
+Skullcrusher+,Sonic Glass
+Sonic Glass,Sonic Glass+
+Sonic Glass+,Glass Queen
+Glass Queen,Glass Royale
+Glass Royale,Queen's Flute
+Spiked Hammer+,Basarios Rock
+Basarios Rock,Basarios Rock Mk.II
+Basarios Rock Mk.II,Volcanic Rock
+Volcanic Rock,Volcanic Gig
+Kut-Ku Pick,Feather Whistle
+Feather Whistle,Hypno Whistle
+Hypno Whistle,Hypno Slide Whistle
+Ancient Relic,Shell Castanet
+Shell Castanet,Shell Castanet+
+Shell Castanet+,Bi-Colored Castanet
+Shell Castanet,Crabby Castanet
+Crabby Castanet,Klick-Klack
+Black Lute,Fatalis Menace
+Fatalis Menace,Fatalis Menace Lute
+Black Lute,Ancient Fatalis Lied
+Ancient Fatalis Lied,Ancient Fatalis Lute
+Dragonwood Horn,Spirit Dragonwd Horn
+Spirit Dragonwd Horn,AncientDrgnwoodFlute
+AncientDrgnwoodFlute,DivineAncDrgnwdFlute
+Striped Dragonga,Tigrex Horn
+Tigrex Horn,Tigrex Horn+
+Striped Dragonga,Hidden Tone
+Hidden Tone,Demon's Darkflute
+Anvil Hammer,Bronze Bell
+Bronze Bell,Gaoren Bell
+Gaoren Bell,Gaoren Zhong
+Anvil Hammer,Sakura Recorder
+Sakura Recorder,Sakura Recorder+
+Sakura Recorder+,Gold Recorder
+Gold Recorder,Gold Recorder+
+Gold Recorder+,Lunar Recorder
+Handmade Frog,Handcrafted Frog
+Wolf Torrent,Wolf Shamisen
+Wolf Shamisen,Crow Shamisen
+Akantor Horn,Akantor Dark Melody
+Blacksmith,Lava Alphorn
+Lava Alphorn,Volcano Alphorn
