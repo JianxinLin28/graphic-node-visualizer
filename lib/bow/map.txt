@@ -1,0 +1,104 @@
+Bow,Hunter's Bow I
+Bow,Blango Fur Bow I
+Bow,Kut-Ku Stave I
+Bow,Wild Bow I
+Bow,Daimyo's Warbow I
+Bow,Sonic Bow I
+Bow,Tiger Arrow I
+Bow,Prominence Bow I
+Bow,Blue Blade Bow I
+Bow,Queen Blaster I
+Bow,Dragon Bow Halo
+Bow,Defect Swordfish Bow
+Bow,Dragon Bow Earth
+Bow,Black Bow I
+Bow,Wing Bow I
+Bow,Diablos Horn Bow I
+Bow,Courageous Hope
+Bow,Akantor Bow
+Bow,Dragonhead Harp I
+Bow,Khezu Bow I
+Bow,Icy Steel Bow
+Bow,Beast Thunderbow
+Hunter's Bow I,Hunter's Bow II
+Hunter's Bow II,Hunter's Bow III
+Hunter's Bow III,Hunter's Bow IV
+Hunter's Bow IV,Hunter's Power Bow I
+Hunter's Power Bow I,Hunter's Power Bow II
+Hunter's Power Bow II,Hunter's Power Bow III
+Hunter's Power Bow III,Hunter's Power Bow IV
+Hunter's Power Bow III,Icicle Bow I
+Icicle Bow I,Icicle Bow II
+Blango Fur Bow I,Blango Fur Bow II
+Blango Fur Bow II,Blango Fur Bow III
+Blango Fur Bow III,Blango Fur Bow IV
+Blango Fur Bow IV,Abominable Bow I
+Abominable Bow I,Abominable Bow II
+Kut-Ku Stave I,Kut-Ku Stave II
+Kut-Ku Stave II,Kut-Ku Stave III
+Kut-Ku Stave III,Blue Kut-Ku Stave I
+Blue Kut-Ku Stave I,Blue Kut-Ku Stave II
+Blue Kut-Ku Stave II,Blue Kut-Ku Stave III
+Blue Kut-Ku Stave I,Wolf Bow
+Wolf Bow,Crow Bow
+Wild Bow I,Wild Bow II
+Wild Bow II,Wild Bow III
+Wild Bow III,Wild Bow IV
+Wild Bow IV,Wild Power Bow I
+Wild Power Bow I,Wild Power Bow II
+Wild Power Bow II,Jungle Bow I
+Jungle Bow I,Jungle Bow II
+Daimyo's Warbow I,Daimyo's Warbow II
+Daimyo's Warbow II,Daimyo's Warbow III
+Daimyo's Warbow III,Daimyo's Warbow IV
+Daimyo's Warbow IV,Grt Purple Emperor I
+Grt Purple Emperor I,Grt Purple Emperor II
+Sonic Bow I,Sonic Bow II
+Sonic Bow II,Sonic Bow III
+Sonic Bow III,Sonic Bow IV
+Tiger Arrow I,Tiger Arrow II
+Tiger Arrow II,Tigrex Whisker
+Tigrex Whisker,Tigrex Whisker+
+Tiger Arrow II,Hidden Bow
+Hidden Bow,Midnight Bow
+Prominence Bow I,Prominence Bow II
+Prominence Bow II,Prominence Bow III
+Prominence Bow III,Prominence Bow IV
+Prominence Bow IV,Prominence Bow V
+Blue Blade Bow I,Blue Blade Bow II
+Blue Blade Bow II,Blue Blade Bow III
+Blue Blade Bow III,Showroom Model
+Blue Blade Bow III,Carmine Bow
+Carmine Bow,Eraser
+Queen Blaster I,Queen Blaster II
+Queen Blaster II,Queen Blaster III
+Queen Blaster III,Queen Blaster IV
+Queen Blaster IV,Queen Blaster V
+Queen Blaster II,Heartshot Bow I
+Heartshot Bow I,Heartshot Bow II
+Heartshot Bow II,Heartshot Bow III
+Dragon Bow Halo,Dragon Bow Solar
+Dragon Bow Solar,Ancient Dragonwood Bow
+Defect Swordfish Bow,Whole Swordfish Bow
+Whole Swordfish Bow,Perfect Swordfish Bow
+Dragon Bow Earth,Dragon Bow Mountain
+Dragon Bow Mountain,Dragon Bow Chaos
+Black Bow I,Black Bow II
+Black Bow II,Exterminator Bow I
+Exterminator Bow I,Exterminator Bow II
+Black Bow II,Glorious Victory I
+Glorious Victory I,Glorious Victory II
+Wing Bow I,Wing Bow II
+Wing Bow II,Wing Bow III
+Wing Bow III,Wing Bow IV
+Diablos Horn Bow I,Diablos Horn Bow II
+Diablos Horn Bow II,Gale Horn Bow
+Gale Horn Bow,DiablosKingHornBow
+Courageous Hope,Courageous Wish
+Courageous Wish,Courageous Dream
+Akantor Bow,Akantor Chaos Bow
+Dragonhead Harp I,Dragonhead Harp II
+Dragonhead Harp II,Dragonhead Harp III
+Khezu Bow I,Khezu Bow II
+Icy Steel Bow,Daora's Sagittarii
+Beast Thunderbow,BeastKingThunderbow

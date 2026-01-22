@@ -1,0 +1,158 @@
+Lance,Iron Lance
+Lance,Longhorn
+Lance,Rusted Lance
+Lance,Vacuum Striker
+Lance,Native Spear
+Lance,Black Belt Lance
+Lance,Tiger Stinger
+Lance,Vermillion Rim
+Lance,Black Lance
+Lance,Worn Spear
+Lance,Scissor Cannon
+Iron Lance,Iron Lance+
+Iron Lance+,Steel Lance
+Steel Lance,Paladin Lance
+Paladin Lance,Rampart
+Rampart,Growling Wyvern
+Growling Wyvern,Roaring Wyvern
+Roaring Wyvern,SanctionedDrillLance
+SanctionedDrillLance,Gravedigger
+Growling Wyvern,Knight Lance
+Knight Lance,Knight Spear
+Knight Spear,Babel Spear
+Babel Spear,Sadalsuud
+Sadalsuud,Sadalmelek
+Sadalmelek,Aquarius
+Babel Spear,Lost Babel
+Babel Spear,Ancient Destroyer
+Babel Spear,Spark Plug
+Spark Plug,ThunderbugShockLance
+Knight Lance,Aqua Spear
+Aqua Spear,Aqua Spear+
+Aqua Spear+,Emerald Spear
+Knight Lance,Grayburg Javelin
+Grayburg Javelin,Dragon Rider Spear
+Dragon Rider Spear,Dragoon's Gáe Bulg
+Knight Lance,Cold Icicle
+Cold Icicle,Frost Icicle
+Frost Icicle,Icicle Blizzard
+Knight Lance,Feather Gunlance
+Rampart,Gatling Lance
+Gatling Lance,Gatling Lance+
+Gatling Lance+,Sanctioned Gunlance
+Rampart,Naag Serpentblade
+Naag Serpentblade,Devta Serpentblade
+Devta Serpentblade,OuroborosSerpntblade
+Steel Lance,Estoc
+Estoc,Valhalla
+Iron Lance+,Bone Javelin
+Bone Javelin,Spiked Spear
+Spiked Spear,Lullaby Spear
+Lullaby Spear,Requiem Spear
+Spiked Spear,Paralyzer
+Paralyzer,Trident
+Paralyzer,Venom Lance
+Venom Lance,Basarios Venom Spear
+Basarios Venom Spear,Gravios Spear
+Gravios Spear,Gravios Venom Spear
+Gravios Venom Spear,Gravios Lance
+Gravios Lance,Gravios Fire Lance
+Basarios Venom Spear,Black Gravios Spear
+Black Gravios Spear,Void Gravios Spear
+Void Gravios Spear,Gravios Lance
+Gravios Lance,Gravios Fire Lance
+Paralyzer,Thunderspear
+Thunderspear,Thunderlance
+Thunderlance,Naar Thunderlance
+Iron Lance,Iron Gunlance
+Iron Lance,Snow Gunlance
+Longhorn,Longhorn+
+Longhorn+,Long Tusk
+Long Tusk,Barbaroi Tusk
+Barbaroi Tusk,Ogre Tusk
+Ogre Tusk,Great Ogre Tusk
+Ogre Tusk,Hard Bone Lance
+Hard Bone Lance,Hard Bone Lance+
+Hard Bone Lance+,Barbarian Tusk
+Barbarian Tusk,Giant Tusk
+Giant Tusk,Brutal Tusk
+Barbarian Tusk,Heavy Bone Gunlance
+Hard Bone Lance+,Demon Lance
+Demon Lance,Great Demon Lance
+Great Demon Lance,Demonlance Rajang
+Hard Bone Lance+,Full Voltage
+Barbaroi Tusk,Incessant Raven
+Incessant Raven,Incessant Wolf
+Incessant Wolf,Incessant Crow
+Long Tusk,Crimson Lance
+Crimson Lance,Crimson War Pike
+Crimson War Pike,Crimson War Pike+
+Crimson Lance,Ceramic Blos Lance
+Ceramic Blos Lance,Ceramic Blos Lance+
+Ceramic Blos Lance+,White Disaster
+White Disaster,White Catastrophe
+Crimson Lance,Diablo Horn
+Diablo Horn,Diablo Spear
+Diablo Spear,Black Tempest
+Black Tempest,Rising Tempest
+Long Tusk,Bone Claw Lance
+Bone Claw Lance,Bone Claw Lance+
+Bone Claw Lance+,Scissor Gunlance
+Bone Claw Lance+,Ceanataur Piercer
+Ceanataur Piercer,Carmine Stinger
+Carmine Stinger,Shish Kabob Stick
+Ceanataur Piercer,Shell Claw Lance
+Shell Claw Lance,GiantHermitaurLance
+Long Tusk,Blade Stinger
+Blade Stinger,Ceanataur Stinger
+Ceanataur Stinger,Ceanataur Piercer
+Ceanataur Piercer,Carmine Stinger
+Carmine Stinger,Shish Kabob Stick
+Ceanataur Piercer,Shell Claw Lance
+Shell Claw Lance,GiantHermitaurLance
+Longhorn+,Dark Lance
+Dark Lance,Dark Spear
+Dark Spear,Dark
+Dark,Darkness
+Longhorn+,Great Bone Gunlance
+Longhorn,Wild Bone Lance
+Wild Bone Lance,Wild Bone Lance+
+Wild Bone Lance+,Bulldrome Spear
+Wild Bone Lance+,Red Tail
+Red Tail,Spear of Prominence
+Red Tail,Blue Tail
+Blue Tail,Blue Prominence
+Blue Prominence,Prominence Soul
+Wild Bone Lance,Fragrance
+Fragrance,Fragrance+
+Fragrance+,Noble Fragrance
+Rusted Lance,Tarnished Lance
+Tarnished Lance,Undertaker
+Tarnished Lance,Steel Ice Spear
+Steel Ice Spear,Steel Ice Spear+
+Steel Ice Spear+,Daora's Fang
+Daora's Fang,Daora's Regulus
+Vacuum Striker,Hyper Vacuum
+Native Spear,Primal Spear
+Black Belt Lance,Expert Lance
+Expert Lance,Warrior's Lance
+Tiger Stinger,Tigrex Lance
+Tigrex Lance,Great Tigrex Lance
+Tiger Stinger,Hidden Stinger
+Hidden Stinger,Black Rain Darklance
+Vermillion Rim,Dragonic Rim
+Dragonic Rim,Sealed Dragonlance
+Sealed Dragonlance,DragonSealer"Virtue"
+DragonSealer"Virtue",DragonSealer"Null"
+Black Lance,Black Dragon Spear
+Black Dragon Spear,True Blk Dragon Spr
+Black Lance,Black Ruiner Lance
+Black Ruiner Lance,True Blk Dragon Spr+
+Worn Spear,Weathered Spear
+Weathered Spear,Matenro
+Matenro,Sky Scraper
+Weathered Spear,Teostra's Howl
+Teostra's Howl,Teostra's Roar
+Teostra's Roar,Teostra's Fire
+Scissor Cannon,Shell Claw Lance
+Shell Claw Lance,GiantHermitaurLance

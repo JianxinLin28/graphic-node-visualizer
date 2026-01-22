@@ -1,0 +1,116 @@
+Hunter's Bow I,1
+Hunter's Bow II,2
+Hunter's Bow III,3
+Hunter's Bow IV,3
+Hunter's Power Bow I,4
+Hunter's Power Bow II,4
+Hunter's Power Bow III,6
+Hunter's Power Bow IV,9
+Icicle Bow I,9
+Icicle Bow II,9
+Blango Fur Bow I,2
+Blango Fur Bow II,3
+Blango Fur Bow III,4
+Blango Fur Bow IV,4
+Abominable Bow I,6
+Abominable Bow II,9
+Kut-Ku Stave I,2
+Kut-Ku Stave II,3
+Kut-Ku Stave III,4
+Blue Kut-Ku Stave I,7
+Blue Kut-Ku Stave II,9
+Blue Kut-Ku Stave III,9
+Wolf Bow,9
+Crow Bow,10
+Wild Bow I,2
+Wild Bow II,3
+Wild Bow III,4
+Wild Bow IV,4
+Wild Power Bow I,6
+Wild Power Bow II,6
+Jungle Bow I,9
+Jungle Bow II,9
+Daimyo's Warbow I,3
+Daimyo's Warbow II,4
+Daimyo's Warbow III,4
+Daimyo's Warbow IV,6
+Grt Purple Emperor I,9
+Grt Purple Emperor II,9
+Sonic Bow I,3
+Sonic Bow II,4
+Sonic Bow III,6
+Sonic Bow IV,9
+Tiger Arrow I,4
+Tiger Arrow II,4
+Tigrex Whisker,6
+Tigrex Whisker+,10
+Hidden Bow,7
+Midnight Bow,10
+Prominence Bow I,4
+Prominence Bow II,4
+Prominence Bow III,8
+Prominence Bow IV,9
+Prominence Bow V,10
+Blue Blade Bow I,4
+Blue Blade Bow II,6
+Blue Blade Bow III,9
+Showroom Model,9
+Carmine Bow,9
+Eraser,10
+Queen Blaster I,4
+Queen Blaster II,4
+Queen Blaster III,6
+Queen Blaster IV,9
+Queen Blaster V,10
+Heartshot Bow I,7
+Heartshot Bow II,8
+Heartshot Bow III,10
+Dragon Bow Halo,5
+Dragon Bow Solar,8
+Ancient Dragonwood Bow,10
+Defect Swordfish Bow,5
+Whole Swordfish Bow,8
+Perfect Swordfish Bow,10
+Dragon Bow Earth,5
+Dragon Bow Mountain,8
+Dragon Bow Chaos,10
+Black Bow I,5
+Black Bow II,8
+Exterminator Bow I,8
+Exterminator Bow II,10
+Glorious Victory I,8
+Glorious Victory II,10
+Wing Bow I,6
+Wing Bow II,6
+Wing Bow III,9
+Wing Bow IV,9
+Diablos Horn Bow I,6
+Diablos Horn Bow II,6
+Gale Horn Bow,9
+DiablosKingHornBow,10
+Courageous Hope,8
+Courageous Wish,8
+Courageous Dream,10
+Akantor Bow,8
+Akantor Chaos Bow,10
+Dragonhead Harp I,8
+Dragonhead Harp II,9
+Dragonhead Harp III,10
+Khezu Bow I,9
+Khezu Bow II,9
+Icy Steel Bow,10
+Daora's Sagittarii,10
+Beast Thunderbow,10
+BeastKingThunderbow,10
+dummy (Diasorute Arrow),9
+Ukanlos Bow,10
+Hunter's Bow G,9
+Wild Bow G,9
+Wild Power Bow G,9
+Blango Fur Bow G,9
+Kut-Ku Stave G,9
+Daimyo's Warbow G,9
+Sonic Bow G,9
+Diablos Horn Bow G,9
+Dragon Bow Solar G,10
+Black Bow G,10

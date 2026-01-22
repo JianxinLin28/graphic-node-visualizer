@@ -1,0 +1,116 @@
+Iron Lance,1
+Iron Gunlance,1
+Iron Gunlance+,2
+Steel Gunlance,2
+Special Ops Gunlance,3
+Imperial Gunlance,4
+Silver Rook,7
+Gun Chariot,8
+Gun Chariot+,9
+World's End,10
+Luna's Howl,5
+Luna's Roar,5
+Luna's Flare,8
+Luna's Sun,10
+White Gunlance,4
+White Cannon,5
+Black Gunlance,6
+Black Gore Cannon,7
+Black Gore Buster,10
+Snow Gunlance,2
+Snow Gunlance Mk. II,3
+Blizzard Gunlance,6
+Marine Fisher,3
+Deep Fisher,4
+Deep Ocean,6
+Sea King Gunlance,7
+Sea God Leviathan,9
+Sea Abyss,10
+Volcano Gunlance,9
+Lavasioth Gunlance,10
+Scissor Gunlance,6
+Scissor Cannon,7
+Violet Cannon,9
+Violet Buster,9
+Shell Claw Lance,9
+Bone Gunlance,1
+Great Bone Gunlance,2
+Wyvern Bone Gunlance,1
+Hellsting,4
+Hellsting+,5
+Hellstinger,7
+Demonic Blizzard,10
+Desert Slingshot,9
+Desert Slingshoter,10
+Average Hitter,3
+Grand Slam,4
+Hard Hitter,6
+Big Slugger,7
+Triple Crown,9
+Venomous Cologne,8
+Venomous Attar,9
+Venomous Perfume,10
+Longhorn+,1
+Great Bone Gunlance,2
+Wyvern Bone Gunlance,1
+Hellsting,4
+Hellsting+,5
+Hellstinger,7
+Demonic Blizzard,10
+Desert Slingshot,9
+Desert Slingshoter,10
+Average Hitter,3
+Grand Slam,4
+Hard Hitter,6
+Big Slugger,7
+Triple Crown,9
+Venomous Cologne,8
+Venomous Attar,9
+Venomous Perfume,10
+Bone Claw Lance+,4
+Scissor Gunlance,6
+Scissor Cannon,7
+Violet Cannon,9
+Violet Buster,9
+Shell Claw Lance,9
+Rex Blast,5
+Tigrex Gunlance,7
+GreatTigrexGunlance,10
+Hidden Gunlance,7
+WanningMoonDarklance,10
+Black Smoke Gunlance,5
+BlackDragonGunlance,8
+TrueBlkDrgnGunlance,10
+Dragonwood Gunlance,5
+Gld Dragonwd GLance,8
+AncientDrgnwoodLance,9
+AncientDrgnwoodLanc+,10
+Pop Corn,6
+Large Pop Corn,9
+Hard Bone Lance+,6
+Full Voltage,7
+Full Generator,9
+High Volt Gunlance,9
+Knight Lance,6
+Feather Gunlance,6
+Feather Gunlance+,9
+Hypno Cannon,9
+Babel Spear,7
+Ancient Destroyer,9
+Genesis,10
+Barbarian Tusk,7
+Heavy Bone Gunlance,9
+Hard Bone Cannon,9
+Akantor Gunlance,8
+AkantorNoirGunlance,10
+dummy (EldrDrgGLance"Emblem"),9
+UkanlosBlazeGunlance,10
+Iron Gunlance G,9
+WyvernBone Gunlance G,9
+Blizzard Gunlance G,9
+Imperial Gunlance G,9
+Scissor Cannon G,9
+Grand Slam G,9
+Marine Fisher G,9
+White Cannon G,10
+Gld Dragonwd GLance G,10

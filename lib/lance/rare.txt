@@ -1,0 +1,195 @@
+Iron Lance,1
+Iron Lance+,1
+Steel Lance,1
+Paladin Lance,2
+Rampart,3
+Growling Wyvern,4
+Roaring Wyvern,7
+SanctionedDrillLance,9
+Gravedigger,9
+Knight Lance,6
+Knight Spear,6
+Babel Spear,7
+Sadalsuud,9
+Sadalmelek,9
+Aquarius,10
+Lost Babel,10
+Ancient Destroyer,9
+Spark Plug,9
+ThunderbugShockLance,9
+Aqua Spear,6
+Aqua Spear+,6
+Emerald Spear,7
+Grayburg Javelin,7
+Dragon Rider Spear,8
+Dragoon's Gáe Bulg,10
+Cold Icicle,6
+Frost Icicle,6
+Icicle Blizzard,9
+Feather Gunlance,6
+Gatling Lance,4
+Gatling Lance+,5
+Sanctioned Gunlance,6
+Naag Serpentblade,4
+Devta Serpentblade,6
+OuroborosSerpntblade,9
+Estoc,2
+Valhalla,4
+Bone Javelin,2
+Spiked Spear,2
+Lullaby Spear,3
+Requiem Spear,4
+Paralyzer,3
+Trident,4
+Venom Lance,4
+Basarios Venom Spear,4
+Gravios Spear,5
+Gravios Venom Spear,7
+Gravios Lance,9
+Gravios Fire Lance,10
+Black Gravios Spear,5
+Void Gravios Spear,7
+Gravios Lance,9
+Gravios Fire Lance,10
+Thunderspear,5
+Thunderlance,8
+Naar Thunderlance,10
+Iron Gunlance,1
+Snow Gunlance,2
+Longhorn,1
+Longhorn+,1
+Long Tusk,1
+Barbaroi Tusk,2
+Ogre Tusk,3
+Great Ogre Tusk,6
+Hard Bone Lance,6
+Hard Bone Lance+,6
+Barbarian Tusk,7
+Giant Tusk,9
+Brutal Tusk,9
+Heavy Bone Gunlance,9
+Demon Lance,7
+Great Demon Lance,8
+Demonlance Rajang,10
+Full Voltage,7
+Incessant Raven,5
+Incessant Wolf,7
+Incessant Crow,9
+Crimson Lance,3
+Crimson War Pike,4
+Crimson War Pike+,7
+Ceramic Blos Lance,4
+Ceramic Blos Lance+,5
+White Disaster,7
+White Catastrophe,7
+Diablo Horn,4
+Diablo Spear,5
+Black Tempest,7
+Rising Tempest,10
+Bone Claw Lance,3
+Bone Claw Lance+,4
+Scissor Gunlance,6
+Ceanataur Piercer,6
+Carmine Stinger,9
+Shish Kabob Stick,10
+Shell Claw Lance,9
+GiantHermitaurLance,9
+Blade Stinger,4
+Ceanataur Stinger,4
+Ceanataur Piercer,6
+Carmine Stinger,9
+Shish Kabob Stick,10
+Shell Claw Lance,9
+GiantHermitaurLance,9
+Dark Lance,2
+Dark Spear,4
+Dark,6
+Darkness,9
+Great Bone Gunlance,2
+Wild Bone Lance,2
+Wild Bone Lance+,3
+Bulldrome Spear,6
+Red Tail,3
+Spear of Prominence,5
+Blue Tail,4
+Blue Prominence,7
+Prominence Soul,10
+Fragrance,2
+Fragrance+,4
+Noble Fragrance,6
+Rusted Lance,1
+Tarnished Lance,1
+Undertaker,5
+Steel Ice Spear,5
+Steel Ice Spear+,5
+Daora's Fang,8
+Daora's Regulus,10
+Vacuum Striker,3
+Hyper Vacuum,6
+Native Spear,3
+Primal Spear,6
+Black Belt Lance,4
+Expert Lance,8
+Warrior's Lance,10
+Tiger Stinger,5
+Tigrex Lance,7
+Great Tigrex Lance,10
+Hidden Stinger,7
+Black Rain Darklance,10
+Vermillion Rim,5
+Dragonic Rim,7
+Sealed Dragonlance,8
+DragonSealer"Virtue",9
+DragonSealer"Null",10
+Black Lance,5
+Black Dragon Spear,8
+True Blk Dragon Spr,10
+Black Ruiner Lance,8
+True Blk Dragon Spr+,10
+Worn Spear,6
+Weathered Spear,6
+Matenro,7
+Sky Scraper,9
+Teostra's Howl,7
+Teostra's Roar,8
+Teostra's Fire,10
+Scissor Cannon,7
+Shell Claw Lance,9
+GiantHermitaurLance,9
+Ukanlos Calamity,10
+Iron Lance G,9
+Long Tusk G,9
+Tarnished Lance G,9
+Spiked Spear G,9
+Rampart G,9
+Valhalla G,9
+Fragrance G,9
+Requiem Spear G,9
+Dark Spear G,9
+Bulldrome Spear G,9
+Bone Claw Lance G,9
+Trident G,9
+Gatling Lance G,9
+Venom Lance G,9
+Crimson War Pike G,9
+Diablo Spear G,9
+Native Spear G,9
+Black Belt Lance G,9
+Undertaker G,9
+Knight Spear G,9
+Hard Bone Lance G,9
+Roaring Wyvern G,9
+Great Ogre Tusk G,9
+Barbarian Tusk G,9
+Noble Fragrance G,9
+Hyper Vacuum G,9
+Aqua Spear G,9
+Emerald Spear G,9
+Grayburg Javelin G,10
+Sanctioned Gunlance G,10
+Ceanataur Piercer G,10
+Ceramic Blos Lance G,10
+Gravios Spear G,10
+BlackGraviousSpear G,10
+Spear of Prominence G,10
+Sealed Dragonlance G,10

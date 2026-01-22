@@ -18,7 +18,7 @@ public class Run {
          */
 
         try {
-            String folder = "lib/hunting-horn";
+            String folder = "lib/bow";
             File file = new File(folder + "/map.txt");
             Scanner scanner = new Scanner(file);
             GraphicGraph graph = new GraphicGraph();

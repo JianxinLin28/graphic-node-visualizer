@@ -1,0 +1,105 @@
+GunLance,Iron Lance
+GunLance,Bone Gunlance
+GunLance,Longhorn+
+GunLance,Bone Claw Lance+
+GunLance,Rex Blast
+GunLance,Black Smoke Gunlance
+GunLance,Dragonwood Gunlance
+GunLance,Pop Corn
+GunLance,Hard Bone Lance+
+GunLance,Knight Lance
+GunLance,Babel Spear
+GunLance,Barbarian Tusk
+GunLance,Akantor Gunlance
+Iron Lance,Iron Gunlance
+Iron Gunlance,Iron Gunlance+
+Iron Gunlance+,Steel Gunlance
+Steel Gunlance,Special Ops Gunlance
+Special Ops Gunlance,Imperial Gunlance
+Imperial Gunlance,Silver Rook
+Silver Rook,Gun Chariot
+Gun Chariot,Gun Chariot+
+Gun Chariot+,World's End
+Steel Gunlance,Luna's Howl
+Luna's Howl,Luna's Roar
+Luna's Roar,Luna's Flare
+Luna's Flare,Luna's Sun
+Steel Gunlance,White Gunlance
+White Gunlance,White Cannon
+White Cannon,Black Gunlance
+Black Gunlance,Black Gore Cannon
+Black Gore Cannon,Black Gore Buster
+Iron Lance,Snow Gunlance
+Snow Gunlance,Snow Gunlance Mk. II
+Snow Gunlance Mk. II,Blizzard Gunlance
+Snow Gunlance Mk. II,Marine Fisher
+Marine Fisher,Deep Fisher
+Deep Fisher,Deep Ocean
+Deep Ocean,Sea King Gunlance
+Sea King Gunlance,Sea God Leviathan
+Sea God Leviathan,Sea Abyss
+Sea King Gunlance,Volcano Gunlance
+Volcano Gunlance,Lavasioth Gunlance
+Snow Gunlance Mk. II,Scissor Gunlance
+Scissor Gunlance,Scissor Cannon
+Scissor Cannon,Violet Cannon
+Violet Cannon,Violet Buster
+Scissor Cannon,Shell Claw Lance
+Bone Gunlance,Great Bone Gunlance
+Great Bone Gunlance,Wyvern Bone Gunlance
+Wyvern Bone Gunlance,Hellsting
+Hellsting,Hellsting+
+Hellsting+,Hellstinger
+Hellstinger,Demonic Blizzard
+Hellstinger,Desert Slingshot
+Desert Slingshot,Desert Slingshoter
+Great Bone Gunlance,Average Hitter
+Average Hitter,Grand Slam
+Grand Slam,Hard Hitter
+Hard Hitter,Big Slugger
+Big Slugger,Triple Crown
+Big Slugger,Venomous Cologne
+Venomous Cologne,Venomous Attar
+Venomous Attar,Venomous Perfume
+Longhorn+,Great Bone Gunlance
+Great Bone Gunlance,Wyvern Bone Gunlance
+Wyvern Bone Gunlance,Hellsting
+Hellsting,Hellsting+
+Hellsting+,Hellstinger
+Hellstinger,Demonic Blizzard
+Hellstinger,Desert Slingshot
+Desert Slingshot,Desert Slingshoter
+Great Bone Gunlance,Average Hitter
+Average Hitter,Grand Slam
+Grand Slam,Hard Hitter
+Hard Hitter,Big Slugger
+Big Slugger,Triple Crown
+Big Slugger,Venomous Cologne
+Venomous Cologne,Venomous Attar
+Venomous Attar,Venomous Perfume
+Bone Claw Lance+,Scissor Gunlance
+Scissor Gunlance,Scissor Cannon
+Scissor Cannon,Violet Cannon
+Violet Cannon,Violet Buster
+Scissor Cannon,Shell Claw Lance
+Rex Blast,Tigrex Gunlance
+Tigrex Gunlance,GreatTigrexGunlance
+Rex Blast,Hidden Gunlance
+Hidden Gunlance,WanningMoonDarklance
+Black Smoke Gunlance,BlackDragonGunlance
+BlackDragonGunlance,TrueBlkDrgnGunlance
+Dragonwood Gunlance,Gld Dragonwd GLance
+Gld Dragonwd GLance,AncientDrgnwoodLance
+AncientDrgnwoodLance,AncientDrgnwoodLanc+
+Pop Corn,Large Pop Corn
+Hard Bone Lance+,Full Voltage
+Full Voltage,Full Generator
+Full Generator,High Volt Gunlance
+Knight Lance,Feather Gunlance
+Feather Gunlance,Feather Gunlance+
+Feather Gunlance+,Hypno Cannon
+Babel Spear,Ancient Destroyer
+Ancient Destroyer,Genesis
+Barbarian Tusk,Heavy Bone Gunlance
+Heavy Bone Gunlance,Hard Bone Cannon
+Akantor Gunlance,AkantorNoirGunlance
